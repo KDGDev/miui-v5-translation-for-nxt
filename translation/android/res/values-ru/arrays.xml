@@ -2,43 +2,56 @@
 <!-- Builded with NXT -->
 <resources>
      <string-array name="app_ops_labels">
-        <item>Местоположение</item>
-        <item>Местоположение</item>
-        <item>Местоположение</item>
-        <item>Вибросигнал</item>
-        <item>Считывать данные контактов</item>
-        <item>Изменение контактов</item>
-        <item>Просмотр списка вызовов</item>
-        <item>Изменение списка вызовов</item>
-        <item>Считывать данные календаря</item>
-        <item>Изменение календаря</item>
-        <item>Местоположение</item>
-        <item>Разместить уведомление</item>
-        <item>Местоположение</item>
-        <item>Позвонить</item>
-        <item>Получение SMS/MMS</item>
-        <item>Отправка SMS/MMS</item>
-        <item>Получение SMS/MMS</item>
-        <item>Получение SMS/MMS</item>
-        <item>Получение SMS/MMS</item>
-        <item>Получение SMS/MMS</item>
-        <item>Отправка SMS/MMS</item>
-        <item>Получение SMS/MMS</item>
-        <item>Отправка SMS/MMS</item>
-        <item>Изменение настроек</item>
-        <item>Отображать поверх других элементов</item>
-        <item>Доступ к уведомлениям</item>
-        <item>Камера</item>
-        <item>Записать аудио</item>
-        <item>Воспроизвести аудио</item>
-        <item>Считать из буфера обмена</item>
-        <item>Изменить буфер обмена</item>
-        <item>Управление Wi-Fi</item>
-        <item>Управление Bluetooth</item>
-        <item>Управление мобильным интернетом</item>
-        <item>Отправка MMS</item>
-        <item>Чтение MMS</item>
-        <item>Запись MMS</item>
+        <item>получить доступ к местоположению устройства</item>
+        <item>получить доступ к местоположению устройства</item>
+        <item>получить доступ к местоположению устройства</item>
+        <item>Tиспользовать виброотклик</item>
+        <item>считать данные контактов</item>
+        <item>изменить данные контактов</item>
+        <item>считать данные списка вызовов</item>
+        <item>изменить данные списка вызовов</item>
+        <item>считать данные календаря</item>
+        <item>изменить данные календаря</item>
+        <item>получить доступ к местоположению устройства</item>
+        <item>вывести уведомление</item>
+        <item>получить доступ к местоположению устройства</item>
+        <item>выполнить телефонный звонок</item>
+        <item>считать SMS-сообщения</item>
+        <item>создать SMS-сообщение</item>
+        <item>получить SMS-сообщение</item>
+        <item>получить SMS-сообщение</item>
+        <item>получить MMS-сообщение</item>
+        <item>получить SMS-сообщение</item>
+        <item>отправить SMS-сообщение</item>
+        <item>считать SMS-сообщения</item>
+        <item>создать SMS-сообщение</item>
+        <item>изменить системные параметры</item>
+        <item>отображение поверх других элементов</item>
+        <item>получить доступ к уведомлениям</item>
+        <item>получить доступ к камере</item>
+        <item>запись аудио</item>
+        <item>воспроизведение аудио</item>
+        <item>считать содержимое буфера обмена</item>
+        <item>изменить содержимое буфера обмена</item>
+		<item>Trying to use media buttons</item>
+        <item>Trying to use audio focus</item>
+        <item>Trying to use master volume</item>
+        <item>Trying to use voice volume</item>
+        <item>использовать громкость звонка</item>
+        <item>использовать громкость медиа</item>
+        <item>использовать громкость будильника</item>
+        <item>использовать громкость уведомлений</item>
+        <item>использовать громкость Bluetooth</item>
+        <item>держать устройство включенным</item>
+        <item>получить доступ к местоположению устройства</item>
+        <item>получить доступ к местоположению устройства</item>
+        <item>переключить состояние Wi-Fi</item>
+        <item>переключить состояние Bluetooth</item>
+        <item>переключить состояние мобильного интернета</item>
+        <item>отправить MMS-сообщение</item>
+        <item>считать MMS-сообщения</item>
+        <item>создать MMS-сообщение</item>
+		<item>запуститься в автозагрузке</item>
      </string-array>
      <string-array name="emailAddressTypes">
         <item>Домашний</item>
@@ -62,13 +75,6 @@
         <item>ICQ</item>
         <item>Jabber</item>
      </string-array>
-     <integer-array name="maps_starting_lat_lng">
-        <item>55750449</item>
-        <item>37621136</item>
-     </integer-array>
-     <integer-array name="maps_starting_zoom">
-        <item>2</item>
-     </integer-array>
      <string-array name="organizationTypes">
         <item>Рабочий</item>
         <item>Другой</item>
