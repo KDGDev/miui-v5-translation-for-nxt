@@ -84,7 +84,7 @@
      <string name="browserFrameFormResubmitMessage">Страница, которую Вы пытаетесь открыть, содержит уже отправленные данные (POSTDATA). В случае их повторной отправки повторятся все действия, выполненные на странице после заполнения формы (например, поиск или покупка)</string>
      <string name="browserFrameNetworkErrorLabel">Ошибка подключения</string>
      <string name="cancel">Отмена</string>
-     <string name="cannot_download">Загрузка возможна только с URL, начинающихся с \"http\" или \"https\"</string>
+     <string name="cannot_download">Загрузка возможна только с URL, начинающихся с "http" или "https"</string>
      <string name="choose_upload">Выберите файл для загрузки</string>
      <string name="choosertitle_sharevia">Способ отправки</string>
      <string name="clear">Очистить</string>
@@ -151,7 +151,7 @@
      <string name="date_time_picker_dialog_title">Выберите дату и время</string>
      <string name="delete">Удалить</string>
      <string name="delete_bookmark">Из закладок</string>
-     <string name="delete_bookmark_warning">Удалить закладку \"%s\"?</string>
+     <string name="delete_bookmark_warning">Удалить закладку "%s"?</string>
      <string name="delete_folder">Удалить папку</string>
      <string name="delete_multi_bookmarks_alert_title">Вы уверены, что хотите удалить эти закладки (%1$s)?</string>
      <string name="dialog_geolocation_reject">Отклонить</string>
@@ -170,7 +170,7 @@
      <string name="download_no_sdcard_dlg_msg">Для загрузки файла %s требуется USB-накопитель.</string>
      <string name="download_no_sdcard_dlg_title">USB-накопитель недоступен</string>
      <string name="download_pending">Начинается загрузка…</string>
-     <string name="download_sdcard_busy_dlg_msg">USB-накопитель занят. Чтобы разрешить загрузки, выберите \"Отключить USB-накопитель\" в уведомлении.</string>
+     <string name="download_sdcard_busy_dlg_msg">USB-накопитель занят. Чтобы разрешить загрузки, выберите "Отключить USB-накопитель" в уведомлении.</string>
      <string name="download_sdcard_busy_dlg_title">USB-накопитель недоступен</string>
      <string name="downloaded">Загружено</string>
      <string name="downloading">Загрузка</string>
@@ -213,8 +213,8 @@
      <string name="geolocation_permissions_prompt_message">%s запрашивает данные о вашем местоположении</string>
      <string name="geolocation_permissions_prompt_remember">Запомнить настройки</string>
      <string name="geolocation_permissions_prompt_share">Разрешить</string>
-     <string name="geolocation_permissions_prompt_toast_allowed">У этого сайта есть доступ к данным о вашем местоположении. Чтобы запретить его, выберите \"Настройки -> Расширенные -> Настройки веб-сайтов\".</string>
-     <string name="geolocation_permissions_prompt_toast_disallowed">У этого сайта нет доступа к данным о вашем местоположении. Чтобы предоставить его, выберите \"Настройки -> Расширенные -> Настройки веб-сайтов\".</string>
+     <string name="geolocation_permissions_prompt_toast_allowed">У этого сайта есть доступ к данным о вашем местоположении. Чтобы запретить его, выберите "Настройки -> Расширенные -> Настройки веб-сайтов".</string>
+     <string name="geolocation_permissions_prompt_toast_disallowed">У этого сайта нет доступа к данным о вашем местоположении. Чтобы предоставить его, выберите "Настройки -> Расширенные -> Настройки веб-сайтов".</string>
      <string name="geolocation_settings_page_dialog_cancel_button">Отмена</string>
      <string name="geolocation_settings_page_dialog_message">Закрыть этому сайту доступ к данным о вашем местоположении?</string>
      <string name="geolocation_settings_page_dialog_ok_button">ОК</string>
@@ -228,7 +228,7 @@
      <string name="history_saved_webpage">Сохраненные страницы</string>
      <string name="history_track">История</string>
      <string name="homepage_set">Главная страница установлена</string>
-     <string name="in_incognito">В режиме \"Инкогнито\" история не сохраняется</string>
+     <string name="in_incognito">В режиме "Инкогнито" история не сохраняется</string>
      <string name="is_first_history_item">Первая страница</string>
      <string name="is_first_tab">На первой вкладке</string>
      <string name="is_last_history_item">Последняя страница</string>
@@ -259,7 +259,7 @@
      <string name="menu_preferences">Настройки</string>
      <string name="menu_save_bandwidth_mode_close_toast">Мобильный интернет отключен</string>
      <string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">OK</string>
-     <string name="menu_save_bandwidth_mode_first_clicked_txt">"Не использовать мобильные сети для предварительной загрузки страниц и показа изображений"</string>
+     <string name="menu_save_bandwidth_mode_first_clicked_txt">Не использовать мобильные сети для предварительной загрузки страниц и показа изображений</string>
      <string name="menu_save_bandwidth_mode_open_toast">Включен мобильный интернет</string>
      <string name="menu_save_snapshot">Сохранить страницу</string>
      <string name="menu_theme_setting">Настройки темы</string>
@@ -350,8 +350,8 @@
      <string name="pref_content_search_engine_summary">Выберите поисковую систему</string>
      <string name="pref_content_title">Содержание страницы</string>
      <string name="pref_data_preload_dialogtitle">Загрузка результатов поиска</string>
-     <string name="pref_data_preload_summary">"
-разрешать браузеру предварительно загружать результаты поиска в фоновом режиме"</string>
+     <string name="pref_data_preload_summary">
+разрешать браузеру предварительно загружать результаты поиска в фоновом режиме</string>
      <string name="pref_data_preload_title">Загрузка результатов поиска</string>
      <string name="pref_data_title">Настройки контента</string>
      <string name="pref_default_text_encoding">Кодировка текста</string>
@@ -395,7 +395,7 @@
      <string name="pref_gesture_title">Жесты</string>
      <string name="pref_image_display_control">Загрузка изображений</string>
      <string name="pref_images_preload_dialogtitle">Предзагрузка изображений</string>
-     <string name="pref_images_preload_summary">" разрешить браузеру предварительно загружать изображения, если позволяет сервер"</string>
+     <string name="pref_images_preload_summary"> разрешить браузеру предварительно загружать изображения, если позволяет сервер</string>
      <string name="pref_images_preload_title">Предзагрузка изображений</string>
      <string name="pref_images_preload_value_always_summary">Всегда разрешать браузеру предварительно загружать изображения, если позволяет сервер</string>
      <string name="pref_images_preload_value_never_summary">Никогда не разрешать браузеру предварительно загружать изображения, если позволяет сервер</string>
@@ -407,8 +407,8 @@
      <string name="pref_key_gesture_title">Кнопки и жесты</string>
      <string name="pref_key_title">Настройки кнопок</string>
      <string name="pref_link_prefetch_dialogtitle">Загрузка веб-страниц</string>
-     <string name="pref_link_prefetch_summary">"
-разрешать браузеру предварительно загружать связанные веб-страницы в фоновом режиме"</string>
+     <string name="pref_link_prefetch_summary">
+разрешать браузеру предварительно загружать связанные веб-страницы в фоновом режиме</string>
      <string name="pref_link_prefetch_title">Загрузка веб-страниц</string>
      <string name="pref_link_prefetch_value_never_summary">Запрещать браузеру предварительно загружать веб-страницы в фоновом режиме.</string>
      <string name="pref_min_font_size">Минимальный размер шрифта</string>
@@ -457,8 +457,8 @@
      <string name="pref_ua_title">Настройки UserAgent</string>
      <string name="pref_version_summary">Версия:%s</string>
      <string name="pref_video_preload_dialogtitle">Загрузка видео</string>
-     <string name="pref_video_preload_summary">"
-разрешать браузеру предварительно загружать видео файлы"</string>
+     <string name="pref_video_preload_summary">
+разрешать браузеру предварительно загружать видео файлы</string>
      <string name="pref_video_preload_title">Загрузка видео</string>
      <string name="pref_volume_key_enabled">Клавиши громкости</string>
      <string name="pref_volume_key_operation">Функция клавиши громкости</string>
@@ -508,8 +508,8 @@
      <string name="save">ОК</string>
      <string name="save_bookmark">В закладки</string>
      <string name="save_dialog_title">Сохранение файла</string>
-     <string name="save_file_already_exist_alert_message">"Файл уже существует. 
-Перезаписать его?"</string>
+     <string name="save_file_already_exist_alert_message">Файл уже существует. 
+Перезаписать его?</string>
      <string name="save_file_already_exist_alert_title">Внимание</string>
      <string name="save_image_failed">Ошибка сохранения изображения</string>
      <string name="save_image_success">Изображение сохранено</string>
@@ -531,7 +531,7 @@
      <string name="set_as_homepage">Сделать главной страницей</string>
      <string name="share_link">Поделиться</string>
      <string name="share_page">Поделиться</string>
-     <string name="sign_in_to" formatted="false">Войти в %s1 \"%s2\"</string>
+     <string name="sign_in_to" formatted="false">Войти в %s1 "%s2"</string>
      <string name="snapshot_failed">Не удалось сохранить страницу</string>
      <string name="snapshot_go_live">Интерактивная версия</string>
      <string name="snapshot_successed">Успешно сохранено для чтения в офф-лайне</string>
@@ -566,7 +566,7 @@
      <string name="tab_history">История</string>
      <string name="tab_most_visited">Часто посещаемые</string>
      <string name="tab_opened_background">Вкладка открыта в фоне</string>
-     <string name="tab_opened_background_in_incognito">Владка открыта в режиме \"Инкогнито\"</string>
+     <string name="tab_opened_background_in_incognito">Владка открыта в режиме "Инкогнито"</string>
      <string name="tab_quicklinks">Ссылки</string>
      <string name="tab_snapshots">Сохраненные страницы</string>
      <string name="tab_yellowpage">Категории</string>
@@ -615,13 +615,13 @@
      <string name="webstorage_outofspace_notification_title">Память браузера переполнена</string>
      <string name="webview_cancel">Отмена</string>
      <string name="webview_find_on_page">Поиск на странице</string>
-     <string name="webview_js_dialog_before_unload">"%s
+     <string name="webview_js_dialog_before_unload">%s
 
-Вы уверены, что хотите покинуть эту страницу?"</string>
+Вы уверены, что хотите покинуть эту страницу?</string>
      <string name="webview_js_dialog_before_unload_negative_button">Остаться</string>
      <string name="webview_js_dialog_before_unload_positive_button">Покинуть</string>
      <string name="webview_js_dialog_before_unload_title">Подтверждение перехода</string>
-     <string name="webview_js_dialog_title">Страница \"%s\" сообщает:</string>
+     <string name="webview_js_dialog_title">Страница "%s" сообщает:</string>
      <string name="webview_last_month">В прошлом месяце</string>
      <string name="webview_no_matches">Нет совпадений</string>
      <string name="webview_ok">OK</string>
