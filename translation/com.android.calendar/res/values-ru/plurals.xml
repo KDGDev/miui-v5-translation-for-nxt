@@ -26,8 +26,8 @@
         <item quantity="other">%d мин.</item>
      </plurals>
      <plurals name="month_more_events">
-        <item quantity="one">" и еще 1"</item>
-        <item quantity="other">" и еще %d"</item>
+        <item quantity="one"> и еще 1</item>
+        <item quantity="other"> и еще %d</item>
      </plurals>
      <plurals name="weekN">
         <item quantity="other">%d нед.</item>

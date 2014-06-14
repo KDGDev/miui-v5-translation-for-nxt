@@ -2,7 +2,6 @@
 <!-- Builded with NXT -->
 <resources>
      <string name="ADJUST">Настроить</string>
-     <string name="APKTOOL_DUMMY_013b">false</string>
      <string name="AUTO">Авто</string>
      <string name="Action_Shot_Helptext">Создание панорамы движущегося объекта</string>
      <string name="Add_Me_Helptext">Создание композиции путем сочетания фотографии людей с фоном</string>
