@@ -22,7 +22,7 @@
      <string name="accessibility_no_wifi">Отсутствует подключение к Wi-Fi</string>
      <string name="accessibility_no_wimax">Нет сигнала WiMAX</string>
      <string name="accessibility_notifications_button">Уведомления</string>
-	 <string name="accessibility_phone_four_bars">Сигнал телефонной сети: четыре деления</string>
+     <string name="accessibility_phone_four_bars">Сигнал телефонной сети: четыре деления</string>
      <string name="accessibility_phone_one_bar">Сигнал телефонной сети: одно деление</string>
      <string name="accessibility_phone_signal_full">Надежный телефонный сигнал</string>
      <string name="accessibility_phone_three_bars">Сигнал телефонной сети: три деления</string>
@@ -55,7 +55,7 @@
      <string name="battery_low_why">Статистика</string>
      <string name="bluetooth_tethered">Общий модем доступен через Bluetooth</string>
      <string name="call_status_dialing">Вызов</string>
-	 <string name="call_status_ringing">Звонок</string>
+     <string name="call_status_ringing">Звонок</string>
      <string name="camera_key_action_app_title">Открыть приложение</string>
      <string name="camera_key_action_category_title">Действия клавиши \"MI\"</string>
      <string name="camera_key_action_none_title">Запуск камеры</string>
@@ -67,11 +67,14 @@
      <string name="camera_key_action_shortcut_title">Функция</string>
      <string name="camera_key_action_shortcut_wake">Блокировка</string>
      <string name="camera_key_action_toggle_title">Переключатель</string>
+     <string name="center_clock_title">Часы в центре</string>
      <string name="chooseUsbActivity">Выберите приложение для устройств USB</string>
      <string name="compat_mode_help_body">Если приложение рассчитано на экран меньших размеров, рядом с часами появятся средства масштабирования</string>
      <string name="compat_mode_help_header">Масштаб и совместимость</string>
      <string name="compat_mode_off">Растянуть на весь экран</string>
      <string name="compat_mode_on">Подогнать по размерам экрана</string>
+     <string name="cust_carrier_label_text_title">Настроить отображаемое имя оператора</string>
+     <string name="cust_carrier_label_title">Редактировать название оператора</string>
      <string name="data_usage_disabled_dialog">"Достигнут лимит трафика.
 
 При восстановлении подключения оператор может взимать плату за передачу данных."</string>
@@ -126,6 +129,20 @@
      <string name="move_data_to_sdcard_message">Скриншоты и фотографии будут перенесены на SD-карту, чтобы освободить больше внутренней памяти.</string>
      <string name="move_data_to_sdcard_title">Перенос данных на SD-карту</string>
      <string name="no_notification_tips">Нет уведомлений</string>
+     <string name="notification_icon_filter">Настройки</string>
+     <string name="notification_icon_filter_hide">Запрещенные приложений</string>
+     <string name="notification_icon_filter_list_empty_summary">Список пуст</string>
+     <string name="notification_icon_filter_menu_item_hide">Не показывать уведомления для этого приложения</string>
+     <string name="notification_icon_filter_menu_item_show">Показать уведомления для данного приложения</string>
+     <string name="notification_icon_filter_mode">Режим контроля</string>
+     <string name="notification_icon_filter_mode_black_list">Черный список</string>
+     <string name="notification_icon_filter_mode_white_list">Белый список</string>
+     <string name="notification_icon_filter_other_list">Приложения</string>
+     <string name="notification_icon_filter_settings">Уведомления</string>
+     <string name="notification_icon_filter_settings_loading">Загрузка…</string>
+     <string name="notification_icon_filter_show">Разрешенные приложения</string>
+     <string name="notification_icon_filter_summary">При отключении этой функции в строке состояния будут отображаться иконки уведомлений от всех приложений.</string>
+     <string name="notification_icon_filter_title">Скрыть уведомления</string>
      <string name="notification_otg_gamestick_in">Игровой контроллер подключен</string>
      <string name="notification_otg_gamestick_out">Игровой контроллер отключен</string>
      <string name="notification_otg_keyboard_in">Клавиатура подключена</string>
@@ -147,7 +164,7 @@
      <string name="oldman_airplane_mode_text">Режим полета</string>
      <string name="recent_apps_key">Последние приложения</string>
      <string name="recent_apps_key_show">Последние приложения</string>
-	 <string name="reject_call">Отклонение вызова</string>
+     <string name="reject_call">Отклонение вызова</string>
      <string name="return_to_incall_screen">Нажмите для возврата к разговору</string>
      <string name="screen_button_custom">Настройка расположения кнопок</string>
      <string name="screen_button_disabled_message">Нижние клавиши отключены. Вы можете включить их снова, нажав клавиши \"Домой\" + \"Питание\".</string>
@@ -158,6 +175,7 @@
      <string name="screen_key_recent_apps">Последние приложения</string>
      <string name="screen_rotation_freeze_message">Поворот экрана заблокирован в ландшафтном режиме</string>
      <string name="screenshot_failed_text">Возможно, накопители заняты</string>
+     <string name="screenshot_failed_title">Не удалось сохранить скриншот</string>
      <string name="screenshot_saved_text">Нажмите, чтобы просмотреть</string>
      <string name="screenshot_saved_title">Скриншот сохранен</string>
      <string name="screenshot_saving_text">Скриншот сохранен</string>
@@ -175,6 +193,7 @@
      <string name="settings_expanded_view">Настройки раскрытия</string>
      <string name="settings_no_carrier">Ничего</string>
      <string name="settings_notification_bar">Панель уведомлений</string>
+     <string name="settings_notification_icon">Уведомления в строке состояния</string>
      <string name="settings_screenshot_notification_disabled">Не уведомлять о скриншоте</string>
      <string name="settings_show_carrier">Имя оператора</string>
      <string name="settings_show_carrier_summary">Отображать только на экране блокировки</string>
@@ -184,6 +203,8 @@
      <string name="settings_show_screenshot_notification">Показывать скриншоты</string>
      <string name="settings_show_statusBar_notification">Уведомления в строке</string>
      <string name="settings_status_bar">Панель уведомлений</string>
+     <string name="settings_statusbar_style">Настройка стиля</string>
+     <string name="settings_toggle">Переключатели</string>
      <string name="settings_toggle_collapse_after_clicked">Свернуть после нажатия</string>
      <string name="settings_toggle_layout_style">Стиль панели</string>
      <string name="settings_toggle_layout_style_applying">Применение стиля…</string>

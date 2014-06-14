@@ -1,7 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with NXT -->
 <resources>
-    <string name="about_game_center">Приложение</string>
+     <string name="VipS_DefaultTitle">VIP GamePack</string>
+     <string name="VipS_Receive">Получить обновления</string>
+     <string name="VipS_showStr1">Уровень VIP игрока</string>
+     <string name="about_game_center">Приложение</string>
      <string name="account_all_game">Все игры</string>
      <string name="account_feedback">Отзывы</string>
      <string name="account_local_game_title">Мои игры</string>
@@ -75,7 +78,6 @@
      <string name="comment_upload_failed">Ошибка отправки комментария</string>
      <string name="comment_upload_hint">Ваш комментарий появится после проверки</string>
      <string name="comment_upload_login_cancel">Отмена</string>
-     <string name="comment_upload_login_ok">Войти</string>
      <string name="comment_upload_need_login">Хотите войти сейчас, чтобы добавить комментарий?</string>
      <string name="comment_upload_not_logined">Сначала войдите в аккаунт Xiaomi.</string>
      <string name="comment_upload_success">Комментарий отправлен! Он будет показан после проверки.</string>
@@ -102,6 +104,7 @@
      <string name="dialog_location_title">Мой город</string>
      <string name="dialog_nick_name_title">Мой ник</string>
      <string name="display_hide_gift_detail">"Детали GamePack'а"</string>
+     <string name="downloadComplete">Загружено!</string>
      <string name="download_apk_no_sdk_content">Пожалуйста, установите SD-карту для установки игры</string>
      <string name="download_apk_no_sdk_title">Ошибка загрузки: SD-карта не найдена</string>
      <string name="download_count">Загрузок: %1$s</string>
@@ -125,7 +128,6 @@
      <string name="download_manager_tag">Загрузки</string>
      <string name="download_manager_tag_with_nonzero_downloads">Загрузка (%1$s/%2$s)</string>
      <string name="download_start_fail">Ошибка установки %1$s: не удается выполнить загрузку</string>
-     <string name="downloadComplete">Загружено!</string>
      <string name="downloadmager_downloading">Загружается (%1$d)</string>
      <string name="downloadmager_downloadother">Завершено (%1$d)</string>
      <string name="downloadmager_downloadqueue">В очереди (%1$d)</string>
@@ -145,23 +147,23 @@
      <string name="feedback_CustomerService_MiLiao">MiTalk: %s</string>
      <string name="feedback_CustomerService_QQ">QQ: %s</string>
      <string name="feedback_CustomerService_Tel">Тел: %s</string>
-     <string name="feedback_general_CustomerService_Name">Поддержка</string>
-     <string name="feedback_general_OpenVIP_Btn">Как стать VIP</string>
-     <string name="feedback_general_OpenVIP_Des">Пользователи VIP 4 уровня могут воспользоваться горячей линией для получения поддержки</string>
      <string name="feedback_HomeShow_MessageType_Audio">(аудио)</string>
      <string name="feedback_HomeShow_MessageType_Image">(изображение)</string>
-     <string name="feedback_less_than4">Сервис обслуживания</string>
      <string name="feedback_PressSendAudio">Нажмите и говорите</string>
-     <string name="feedback_Save_Success">Сохранено в контакты</string>
      <string name="feedback_SaveTel">Добавить в контакты</string>
+     <string name="feedback_Save_Success">Сохранено в контакты</string>
      <string name="feedback_SelectFromCamera">Камера</string>
      <string name="feedback_SelectFromPhotos">Галерея</string>
      <string name="feedback_Send">Отправить</string>
      <string name="feedback_Send_IsNotNull">Заполните содержание</string>
-     <string name="feedback_title">Поддержка</string>
      <string name="feedback_Upload_ImageUploading">Загрузка…</string>
      <string name="feedback_VipCS_NameTitle">Xiaomi Игры</string>
      <string name="feedback_VipCS_NameTitle2">VIP-обслуживание</string>
+     <string name="feedback_general_CustomerService_Name">Поддержка</string>
+     <string name="feedback_general_OpenVIP_Btn">Как стать VIP</string>
+     <string name="feedback_general_OpenVIP_Des">Пользователи VIP 4 уровня могут воспользоваться горячей линией для получения поддержки</string>
+     <string name="feedback_less_than4">Сервис обслуживания</string>
+     <string name="feedback_title">Поддержка</string>
      <string name="female">Женский</string>
      <string name="from_camre">Камера</string>
      <string name="from_file">Галерея</string>
@@ -210,7 +212,7 @@
      <string name="gift_cdkey_voice_one">1. Пожалуйста, используйте ключ игры сразу, во избежание его потери</string>
      <string name="gift_cdkey_voice_two">"2. Вы можете просмотреть все старые ключи GamePack'ов в \"Мои GP\""</string>
      <string name="gift_copied_exchange_code">Скопировано</string>
-     <string name="gift_copy_exchange_code">Копировать код</string>
+     <string name="gift_copy_exchange_code">Копировать</string>
      <string name="gift_copy_text">"Скопируйте ключ GamePack'а"</string>
      <string name="gift_desc_text">"Подробнее о GamePack'е:"</string>
      <string name="gift_expired">Истек</string>
@@ -256,9 +258,9 @@
      <string name="gift_pack_my_gift_login">Пожалуйста, войдите в аккаунт</string>
      <string name="gift_pack_my_gift_login_alert">"Пожалуйста, войдите в аккаунт для применения GamePack'а"</string>
      <string name="gift_pack_vip_level_limit">Извините, этот GamePack только для пользователей уровня VIP%1$s и выше</string>
+     <string name="gift_reGet_text">Все закончилось! Следи за новыми пакетами завтра!</string>
      <string name="gift_received_progress">"Прогресс получения GamePack'а"</string>
      <string name="gift_receiving">Получение…</string>
-     <string name="gift_reGet_text">Все закончилось! Следи за новыми пакетами завтра!</string>
      <string name="gift_time_day">" дней"</string>
      <string name="gift_time_end">" до окончания"</string>
      <string name="gift_time_future">Оставшееся время:</string>
@@ -347,41 +349,7 @@
      <string name="local_game_head">Игр: %d</string>
      <string name="local_games_empty_txt">Установленные игры будут показаны здесь.</string>
      <string name="locating">Определение местонахождения…</string>
-     <string name="locations_anhui">Аньхой</string>
-     <string name="locations_beijing">Пекин</string>
-     <string name="locations_chongqin">Чунцин</string>
-     <string name="locations_fujian">Фуцзянь</string>
-     <string name="locations_gansu">Ганьсу</string>
-     <string name="locations_guangdong">Гуандун</string>
-     <string name="locations_guangxi">Гуансинь</string>
-     <string name="locations_guizhou">Сучжоу</string>
-     <string name="locations_hainan">Хайнань</string>
-     <string name="locations_hebei">Хэбэй</string>
-     <string name="locations_heilongjiang">Хэйлунцзян</string>
-     <string name="locations_henan">Хэнань</string>
-     <string name="locations_hongkong">Гонконг</string>
-     <string name="locations_hubei">Хубэй</string>
-     <string name="locations_hunan">Хунань</string>
-     <string name="locations_jiangsu">Цзянсу</string>
-     <string name="locations_jiangxi">Цзянси</string>
-     <string name="locations_jilin">Цзилинь</string>
-     <string name="locations_liaoning">Ляонин</string>
-     <string name="locations_macao">Макао</string>
-     <string name="locations_neimenggu">Внутренняя Монголия</string>
-     <string name="locations_ningxia">Нинся</string>
      <string name="locations_overseas">Другой</string>
-     <string name="locations_qinghai">Цинхай</string>
-     <string name="locations_shandong">Шаньдун</string>
-     <string name="locations_shanghai">Шанхай</string>
-     <string name="locations_shanxi">Шаньси</string>
-     <string name="locations_shanxi3">Шэньси</string>
-     <string name="locations_sichuan">Сычуань</string>
-     <string name="locations_taiwan">Тайвань</string>
-     <string name="locations_tianjin">Тяньцзинь</string>
-     <string name="locations_tibet">Тибет</string>
-     <string name="locations_xinjiang">Синьцзян</string>
-     <string name="locations_yunnan">Юньнань</string>
-     <string name="locations_zhejiang">Чжэцзян</string>
      <string name="login_fail">Не удалось войти</string>
      <string name="login_fail_with_errcode">Ошибка входа: errCode=%d</string>
      <string name="login_now_text">Войти в систему</string>
@@ -442,7 +410,6 @@
      <string name="new_edition_sync_title">Автообновление</string>
      <string name="no_after_end">Истекает через %s</string>
      <string name="no_after_start">Начнется через %s</string>
-     <string name="no_average_score">Нет оценки</string>
      <string name="no_card_number">Номер карты не может быть пустым</string>
      <string name="no_card_psw">Пожалуйста, введите пароль</string>
      <string name="no_change_log">Нет списка изменений</string>
@@ -518,7 +485,7 @@
      <string name="pref_summary_auto_update_setting">Уведомление о скачивании</string>
      <string name="pref_summary_clear_search_record">Очистить данные о поиске</string>
      <string name="pref_summary_data_check_update">Проверка обновлений</string>
-     <string name="pref_summary_data_save_mode">Не загружить иконки и скриншоты</string>
+     <string name="pref_summary_data_save_mode">Не загружать изображения при мобильном интернете</string>
      <string name="pref_summary_reserve_apk">Сохранять apk после установки</string>
      <string name="pref_summary_update_notification">Сообщать о наличии обновлений для приложений</string>
      <string name="pref_title_auto_update_setting">Настройка автообновления</string>
@@ -532,7 +499,6 @@
      <string name="price">Цена: %1$s￥</string>
      <string name="privilege_service_title">Услуги</string>
      <string name="privilege_service_title_introduction">Описание сервиса</string>
-     <string name="progress">%1$s%%</string>
      <string name="promotion_detail_action_text_attend">Принять участие в акции</string>
      <string name="promotion_detail_action_text_install">Перейти к скачиванию</string>
      <string name="promotion_detail_action_text_lunch">Запустить</string>
@@ -555,21 +521,18 @@
      <string name="purchase_record_type_today">За сегодня</string>
      <string name="rank_tag">Топ</string>
      <string name="rating_button">Рейтинг: %1$s</string>
-     <string name="recharge_alipay_detail">Пополняйте с Zhifubao</string>
      <string name="recharge_alipay_detail">Платеж Zhifubao</string>
      <string name="recharge_fail">Ошибка пополения</string>
      <string name="recharge_fee_detail">Платежные карты China Mobile, Unicom, Telcom</string>
      <string name="recharge_fee_title">Платежная карта</string>
      <string name="recharge_proxy">Платеж по доверенности</string>
      <string name="recharge_success">Успешно пополнено!</string>
-     <string name="recharge_uint">￥</string>
      <string name="recharging">Ожидание обработки…</string>
      <string name="remain_text">Осталось:</string>
      <string name="remain_text_withnum">Осталось %s</string>
      <string name="remove_package_timeout_fail">Ошибка установки %1$s: пожалуйста, вручную удалите клиент перед обновлением до последней версии.</string>
-     <string name="save_photo_fail">Ошибка сохранения фото</string>
      <string name="restore">Восстановить</string>
-     <string name="save_photo_fail">Не удалось сохранить фото.</string>
+     <string name="save_photo_fail">Ошибка сохранения фото</string>
      <string name="save_photo_success">Фото успешно сохранено</string>
      <string name="select_recharge_value">Пожалуйста, выберите сумму пополнения</string>
      <string name="selected_not_pic">Допускаются только файлы изображений</string>
@@ -614,7 +577,7 @@
      <string name="ticket_detail_overdue">Истек</string>
      <string name="ticket_detail_title">Детали купона</string>
      <string name="ticket_empty_loading_view_text2">&lt;font color=#000000>Что такое \"Игровой купон\"?&lt;/font>&lt;br> &lt;font color=#99000000>Игровой купон - это кредитный ваучер, который можно использовать вместо наличных средств для внутриигровых покупок в онлайн-играх&lt;/font></string>
-     <string name="ticket_list_empty_text">У Вас не игровых купонов</string>
+     <string name="ticket_list_empty_text">У Вас нет игровых купонов</string>
      <string name="ticket_source_text">%s</string>
      <string name="title_gift">"GamePack'и"</string>
      <string name="title_intergral">Очки</string>
@@ -625,19 +588,17 @@
      <string name="today_no_purchase_record">Нет записей о Ваших сегодняшних покупках</string>
      <string name="total_points">%d очков</string>
      <string name="track_feedback_status">Статус проблемы</string>
+     <string name="txt_My_Integral">Очки</string>
      <string name="txt_alipay_recharge_invalid_number">Пожалуйста, выберите количество</string>
      <string name="txt_card_hint">% значный номер</string>
      <string name="txt_card_no">Номер карты:</string>
      <string name="txt_card_psw">Пароль:</string>
-     <string name="txt_gender_female">Женский</string>
-     <string name="txt_gender_male">Мужской</string>
      <string name="txt_hide_my_birthday">Скрыть от других</string>
      <string name="txt_installed_subtitle">Установленно</string>
      <string name="txt_local_game">Игр: %d</string>
      <string name="txt_manager_game">Управление играми</string>
      <string name="txt_mibi_balance">Баланс MiCredit:</string>
      <string name="txt_mibi_center">Центр MiCredit</string>
-     <string name="txt_My_Integral">Очки</string>
      <string name="txt_other_recharge_method">Выбрать другой метод пополнения</string>
      <string name="txt_purchase_record">Покупки</string>
      <string name="txt_recharge_mibi">MiCredit</string>
@@ -650,20 +611,20 @@
      <string name="unknown_user_name">MiGamer888</string>
      <string name="unzipping">Распаковка</string>
      <string name="update">обн.</string>
+     <string name="update_Discard_Read_Feature">Отменить</string>
+     <string name="update_Read_Feature">Обзор новых возможностей</string>
      <string name="update_account_fail">Не удалось сохранить профиль</string>
      <string name="update_account_success">Профиль успешно сохранен</string>
      <string name="update_all">Обновить все</string>
      <string name="update_bonus_rule">Повысьте уровень и получите очки!</string>
      <string name="update_date">%3$02d-%2$02d-%1$d</string>
      <string name="update_date_label">Обновлено:</string>
-     <string name="update_Discard_Read_Feature">Отменить</string>
      <string name="update_game_cancel_ignore_toast">Восстановлено​​, при наличии новой версии будет показано уведомление.</string>
      <string name="update_game_ignore">Отключить обновления этой игры.</string>
      <string name="update_game_ignore_text">Игры с отключенными обновлениями: %d.</string>
      <string name="update_game_ignore_toast">Отключено, при наличии новой версии не будет показано уведомление.</string>
-     <string name="update_game_item_new_version">Новая: %s</string>
      <string name="update_game_item_cur_version">Версия:</string>
-     <string name="update_game_item_new_version">&lt;font color=#69a640>%1$s&lt;/font></string>
+     <string name="update_game_item_new_version">Новая: %s</string>
      <string name="update_game_item_size_increment">&lt;font color=#69a640>%s&lt;/font></string>
      <string name="update_game_item_size_local">%s</string>
      <string name="update_game_item_size_title">Размер:</string>
@@ -677,7 +638,6 @@
      <string name="update_new_version_available">(новая версия)</string>
      <string name="update_notify_summary">Уведомлять об обновлениях игр</string>
      <string name="update_notify_title">Уведомление об обновлениях</string>
-     <string name="update_Read_Feature">Обзор новых возможностей</string>
      <string name="update_result_new">Вы используете последнюю версию</string>
      <string name="update_success">Обновление завершено!</string>
      <string name="updating_starts">Началось обновление Game Center</string>
@@ -691,7 +651,7 @@
      <string name="user_info_page_field_mask_tel">Мобильный: %s</string>
      <string name="user_name_invalid">Имя пользователя не может быть пустым</string>
      <string name="user_name_or_psw_empty">Имя пользователя или пароль пуст</string>
-     <string name="usr_name_hint">Аккаунт Xiaomi/email/телефон</string>
+     <string name="usr_name_hint">Аккаунт Xiaomi/Email/телефон</string>
      <string name="verifying">Проверка…</string>
      <string name="version_label">Версия:</string>
      <string name="view_all_gift">Подробнее</string>
@@ -735,9 +695,6 @@
      <string name="vip_valid_forever">Срок действия не истек</string>
      <string name="vip_welcome_complex_info">Редактирование информации</string>
      <string name="vip_welcome_go_gamecenter">Перейдите в раздел Игры</string>
-     <string name="VipS_DefaultTitle">VIP GamePack</string>
-     <string name="VipS_Receive">Получить обновления</string>
-     <string name="VipS_showStr1">Уровень VIP игрока</string>
      <string name="visiting_appointments">Встречи</string>
      <string name="voucher_total">Всего купонов:</string>
      <string name="webkit_errpage_btn_text">Обновить</string>

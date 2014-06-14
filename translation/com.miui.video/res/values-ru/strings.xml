@@ -7,7 +7,12 @@
      <string name="about_title">О программе</string>
      <string name="about_version_label">Версия</string>
      <string name="actors_colon">"В ролях: "</string>
+     <string name="add_more_addons">добавить другие специальные</string>
      <string name="add_review">Добавить отзыв</string>
+     <string name="addon" />
+     <string name="addon_category">Hot Specials</string>
+     <string name="addon_install_complete_disc">您已完成%s专区插件的安装，您可直接启动进入专区，或从“我的视频”里进入专区</string>
+     <string name="addon_update_desc">Найдена новая версия. Обновить?</string>
      <string name="adjust_position_next_media_notice">Далее</string>
      <string name="adjust_position_prev_media_notice">Назад</string>
      <string name="airkan_control_device_des">Вы можете управлять воспроизведением видео с помощью кнопок в нижней части экрана</string>
@@ -86,6 +91,8 @@
      <string name="declaration">Условия использования</string>
      <string name="declaration_content">Вы принимаете условия использования, предусмотренные Sohu Video, iQiyi и другими контент-провайдерами видео?</string>
      <string name="delete">Удалить</string>
+     <string name="delete_addon">Удалить</string>
+     <string name="delete_addon_content">Удалить этот элемент?</string>
      <string name="delete_media">Удалить</string>
      <string name="delete_media_content">Удалить выбранные файлы?</string>
      <string name="di_count_ji">%d серия</string>
@@ -106,7 +113,6 @@
      <string name="download_is_success">Загружено</string>
      <string name="end_live_status">Завершено</string>
      <string name="episode_prefix">"эпизод "</string>
-     <string name="episode_suffix">"Эпизод %d "</string>
      <string name="favorite">" избранное"</string>
      <string name="favorited_cannot_hide">Избранные нельзя скрыть</string>
      <string name="fenghuang">iFeng</string>
@@ -139,6 +145,7 @@
      <string name="in_download_notification">видео загружается: %d</string>
      <string name="in_pause">Приостановлено</string>
      <string name="in_waiting">Ожидание</string>
+     <string name="install_comfirm">Нажмите, чтобы установить</string>
      <string name="jni_invalid_param">Неправильный параметр</string>
      <string name="jni_no_media_source">Нет доступа к источнику видео</string>
      <string name="jni_res_connect_error">Не удалось подключиться к сети</string>
@@ -155,8 +162,8 @@
      <string name="live_pending_to_be_play">Загрузка…</string>
      <string name="live_tabs_all">Каналы</string>
      <string name="live_tabs_choice">Программы</string>
-     <string name="live_tabs_my">Избранное</string>
      <string name="live_tabs_hot">Топ</string>
+     <string name="live_tabs_my">Избранное</string>
      <string name="live_title">Прямой эфир</string>
      <string name="livetv">Live</string>
      <string name="load_data_failed">Не удалось получить данные, проверьте сеть</string>
@@ -335,6 +342,11 @@
      <string name="video_library">Видео</string>
      <string name="view_all_reviews">Еще %d коммен.</string>
      <string name="visit_postfix">| недавно посещенные</string>
+     <string name="vp_VideoView_error_button">OK</string>
+     <string name="vp_VideoView_error_network_not_available">Сеть не доступна</string>
+     <string name="vp_VideoView_error_text_invalid_progressive_playback">Формат видео не поддерживается</string>
+     <string name="vp_VideoView_error_text_unknown">Невозможно воспроизвести видео</string>
+     <string name="vp_VideoView_error_title">Ошибка воспроизведения!</string>
      <string name="vp_full_high_definition">1080P</string>
      <string name="vp_high_definition">HD</string>
      <string name="vp_next_ci">Далее</string>
@@ -342,11 +354,6 @@
      <string name="vp_select_ci">Серии</string>
      <string name="vp_standard_definition">SD</string>
      <string name="vp_super_definition">UHD</string>
-     <string name="vp_VideoView_error_button">OK</string>
-     <string name="vp_VideoView_error_network_not_available">Сеть не доступна</string>
-     <string name="vp_VideoView_error_text_invalid_progressive_playback">Формат видео не поддерживается</string>
-     <string name="vp_VideoView_error_text_unknown">Невозможно воспроизвести видео</string>
-     <string name="vp_VideoView_error_title">Ошибка воспроизведения!</string>
      <string name="waitfornewset">Отслеживать</string>
      <string name="waitfornewset_tip_content">Вы будете уведомлены, когда будет доступен новый эпизод или дополнительный контент</string>
      <string name="wasu">Wasu</string>

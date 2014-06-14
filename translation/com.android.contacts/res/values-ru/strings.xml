@@ -15,6 +15,7 @@
      <string name="account_unactivated">Аккаунт не активирован</string>
      <string name="actionIncomingCall">Входящие вызовы</string>
      <string name="action_menu_overflow_description">Дополнительные опции</string>
+     <string name="activity_not_found_uri">Cannot find a program for this</string>
      <string name="activity_title_confirm_add_detail">Добавление данных</string>
      <string name="activity_title_contacts_filter">Фильтр контактов</string>
      <string name="activity_title_settings">Настройки</string>
@@ -860,7 +861,7 @@
      <string name="resource_comment_upload_success">Комментарий отправлен! Ваш комментарий будет отображаться после краткого обзора.</string>
      <string name="resource_default">Стандарт</string>
      <string name="resource_default_name">Ресурс</string>
-	 <string name="resource_delete">Удалить</string>
+     <string name="resource_delete">Удалить</string>
      <string name="resource_delete_all">Удалить выбранные ресурсы (%1$d)?</string>
      <string name="resource_delete_confirm">Удалить эти ресурсы?</string>
      <string name="resource_delta_update_failed">Ошибка обновления, нужно скачать полный ресурс</string>
@@ -1021,7 +1022,7 @@
      <string name="sim_contacts">Контакт на SIM-карте</string>
      <string name="sim_error_anr_full">Хранилище номеров заполнено</string>
      <string name="sim_error_email_full">Хранилище почтовых адресов заполнено</string>
-     <string name="sim_error_email_too_long">E-mail слишком длинный</string>
+     <string name="sim_error_email_too_long">Email слишком длинный</string>
      <string name="sim_error_generic_failure">Ошибка</string>
      <string name="sim_error_not_ready">Загрузка контактов SIM-карты. Подождите…</string>
      <string name="sim_error_number_too_long">Номер слишком длинный</string>

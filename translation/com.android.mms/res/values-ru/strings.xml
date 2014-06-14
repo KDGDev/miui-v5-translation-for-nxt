@@ -23,7 +23,10 @@
      <string name="adding_attachments">Добавление. Подождите…</string>
      <string name="adding_attachments_title">Добавление вложений</string>
      <string name="adding_recipients">Добавление получателей…</string>
+     <string name="alert_dlg_cancel_button">Отмена</string>
+     <string name="alert_dlg_ok_button">OK</string>
      <string name="app_label">Сообщения</string>
+     <string name="app_name">Управление устройством</string>
      <string name="attach_image">Изображение</string>
      <string name="attach_record_sound">Записать аудио</string>
      <string name="attach_record_video">Снять видео</string>
@@ -65,6 +68,8 @@
      <string name="confirm_delete_message">Вы уверены, что хотите удалить выбранное сообщение?</string>
      <string name="confirm_dialog_locked_title">Удалить закрепленное сообщение?</string>
      <string name="confirm_dialog_title">Удаление</string>
+     <string name="confirm_dlg__msg">Уведомление: CMCC бесплатная пост-служба не будет работать, если Вы отмените услугу. Продолжить?</string>
+     <string name="confirm_dlg_title">Управление устройством</string>
      <string name="confirm_export_dialog_description">После удаления приватного контакта Ваша переписка восстановится в обычный режим. Продолжить?</string>
      <string name="confirm_export_dialog_title">Удаление приватного контакта</string>
      <string name="confirm_no_block_positive">Не блокировать и восстановить</string>
@@ -74,7 +79,7 @@
      <string name="confirm_restore_positive">Восстановить</string>
      <string name="confirm_restore_title">Восстановить все выбранные сообщения?</string>
      <string name="confirm_send_mms">Один из получателей содержит адрес электронной почты. Это сообщение будет отправлено как MMS, что может привести к дополнительным расходам.</string>
-	 <string name="context_menu_add_calendar">Добавить в календарь</string>
+     <string name="context_menu_add_calendar">Добавить в календарь</string>
      <string name="context_menu_add_contact">Добавить в контакты</string>
      <string name="context_menu_add_to_browser_favorite">Добавить в избранное браузера</string>
      <string name="context_menu_browse_web">Перейти</string>
@@ -83,7 +88,7 @@
      <string name="context_menu_copy">Копировать</string>
      <string name="context_menu_copy_notice">Текст был скопирован в буфер обмена</string>
      <string name="context_menu_new_contact">Новый контакт</string>
-     <string name="context_menu_send_mail">Отправить e-mail</string>
+     <string name="context_menu_send_mail">Отправить Email</string>
      <string name="context_menu_send_sms">Отправить SMS</string>
      <string name="context_menu_view_contact">Просмотр контактов</string>
      <string name="context_menu_view_mms">Просмотр MMS</string>
@@ -171,6 +176,7 @@
      <string name="loading_all_messages">Загрузка сообщений…</string>
      <string name="loading_conversations">Загрузка переписок…</string>
      <string name="loading_mms">Загрузка MMS…</string>
+     <string name="manage_permission_app_label">Разрешение управления устройством</string>
      <string name="me">Я</string>
      <string name="menu_compose_new">Новое сообщение</string>
      <string name="menu_delete_messages">Удалить сообщения</string>
@@ -277,8 +283,8 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="pref_sms_theme_title">Настройки вида</string>
      <string name="pref_summary_allow_si_sl_push">Разрешить прием WAP Push сообщений (SI/SL)</string>
      <string name="pref_summary_delete_limit">Сообщений в переписке: %1$s</string>
-     <string name="pref_summary_delivery_reports">Запрашивать отчёт о доставке для всех отправляемых сообщений</string>
-     <string name="pref_summary_hide_festival">Скрыть вкладку \"Поздравления\" для языков, отличных от китайского</string>
+     <string name="pref_summary_delivery_reports">Запрашивать отчет о доставке для всех отправляемых сообщений</string>
+     <string name="pref_summary_hide_festival">Скрыть вкладку поздравления для языков, отличных от китайского</string>
      <string name="pref_summary_manage_sim_messages">Управление сообщениями на SIM-карте</string>
      <string name="pref_summary_mms_auto_retrieval">Автоматически загружать MMS-сообщения</string>
      <string name="pref_summary_mms_read_reports">Запрашивать отчет о прочтении для всех отправляемых сообщений</string>
@@ -300,7 +306,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="pref_title_card_format">Формат карты</string>
      <string name="pref_title_delivery_reports">Отчёт о доставке</string>
      <string name="pref_title_fwd_sender_info">Информацию о отправителе</string>
-     <string name="pref_title_hide_festival">Скрыть вкладку \"Поздравления\"</string>
+     <string name="pref_title_hide_festival">Скрыть вкладку поздравления</string>
      <string name="pref_title_manage_sim_messages">Сообщения на SIM-карте</string>
      <string name="pref_title_miui_card">Отправить через карту MIUI</string>
      <string name="pref_title_mms_auto_retrieval">Автозагрузка</string>
@@ -330,7 +336,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="private_settings">Настройки</string>
      <string name="processing">Обработка…</string>
      <string name="prvate_contact">Приватные контакты</string>
-	 <string name="quick_reply">Ответить</string>
+     <string name="quick_reply">Ответить</string>
      <string name="rate_limit_surpassed">Подтвердить</string>
      <string name="received_label">"Получено: "</string>
      <string name="recipient_label">"Получатель: "</string>
@@ -376,6 +382,12 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="select_recipient">выбор получателя</string>
      <string name="select_top_text">Текст вверху</string>
      <string name="send">Отправить</string>
+     <string name="send_message_dlg_check_hint">Запомнить мой выбор</string>
+     <string name="send_message_dlg_mgs">CMCC notice: We need to register your device to device management platform to provide the free post-service (Post-service is a platform by CMCC that can manage the terminal devices. It provides you the service of remote settings and app upgrade. ). A free message of device information will be sent for registration. The message will be sent only once and do not need you personal data (Do not send of Hong Kong, Macao, Taiwan and international roaming). Select “OK” to a...(line truncated)...
+     <string name="send_message_dlg_title">Управление устройством</string>
+     <string name="send_message_notification_msg">Device Management send message permission request</string>
+     <string name="send_message_notification_tickerText">Device Management permission request</string>
+     <string name="send_message_notification_title">Управление устройством</string>
      <string name="send_signature_confirm_dialog_message">Вы не ввели содержание сообщения. Хотите отправить его только с подписью?</string>
      <string name="send_signature_confirm_dialog_title">Отправить подтверждение</string>
      <string name="send_sms">отправить сообщение</string>
@@ -407,7 +419,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="sms_full_title">Память для текстовых сообщений переполнена</string>
      <string name="sms_rejected_body">Входящее сообщение отклонено по неизвестной причине</string>
      <string name="sms_rejected_title">Сообщение отклонено</string>
-	 <string name="sp_category_all">Все сообщения</string>
+     <string name="sp_category_all">Все сообщения</string>
      <string name="sp_category_bank">Сообщения от банков</string>
      <string name="sp_conversation_title">Уведомительные сообщения</string>
      <string name="sp_mark_as_read">Пометить все сообщения как прочитанные?</string>

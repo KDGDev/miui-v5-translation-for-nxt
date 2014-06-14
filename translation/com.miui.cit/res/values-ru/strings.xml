@@ -129,7 +129,9 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_kayboard_volume_down">Кнопка: VOLUME_DOWN</string>
      <string name="cit_kayboard_volume_up">Кнопка: VOLUME_UP</string>
      <string name="cit_keyboard_back">Кнопка: BACK</string>
+     <string name="cit_keyboard_camera">Клавиша: CAMERA</string>
      <string name="cit_keyboard_current">В настоящее время: %s</string>
+     <string name="cit_keyboard_focus">Клавиша: FOCUS</string>
      <string name="cit_keyboard_menu">Кнопка: MENU</string>
      <string name="cit_keyboard_test_summary">Ниже показаны текущие нажатые кнопки.(Примечание: клавиша HOME свернет проверку)</string>
      <string name="cit_keyboard_test_title">Основные тесты</string>
@@ -226,8 +228,11 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_tool_log_toast_generate_bugreport">Генерируется отчет об ошибке (это займет около 10 секунд)</string>
      <string name="cit_tool_modem">Тест модема</string>
      <string name="cit_tool_modem_bugreport">Force MODEM Coredump</string>
+     <string name="cit_tool_modem_cta_test">打开/关闭协议一致性测试</string>
      <string name="cit_tool_modem_exit_ftm">Выйти из режима FTM</string>
      <string name="cit_tool_modem_offline_log">Открыть/закрыть офлайн журнал</string>
+     <string name="cit_tool_modem_pcap_switch">打开/关闭DATA输出</string>
+     <string name="cit_tool_modem_pcm_switch">打开/关闭PCM输出</string>
      <string name="cit_tool_nfc">Тест NFC</string>
      <string name="cit_tool_nfc_st">Nfc ST:</string>
      <string name="cit_tool_nfc_st_confreq">freq:</string>

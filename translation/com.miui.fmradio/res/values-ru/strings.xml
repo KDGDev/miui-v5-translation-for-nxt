@@ -11,6 +11,7 @@
      <string name="FMR_ECO_Version">Нет</string>
      <string name="FMR_ECO_Version_text">Версия ECO</string>
      <string name="FMR_Force_Stereomono_text">Сила:</string>
+     <string name="FMR_Freq_text">Freq(MHz)</string>
      <string name="FMR_Freq_tune">Регулировка</string>
      <string name="FMR_Hardware_version">Версия аппаратного обеспечения</string>
      <string name="FMR_Patch_Version">Нет</string>
