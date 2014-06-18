@@ -781,7 +781,7 @@ Direct connected"</string>
      <string name="not_enough_phone_storage">Память телефона заполнена</string>
      <string name="not_enough_space">SD-карта заполнена</string>
      <string name="not_recording_when_streaming_tv">Во время транслирования изображения на телевизор запись видео не работает</string>
-     <string name="not_selectable_in_scene_mode">Недоступно в режиме съёмки</string>
+     <string name="not_selectable_in_scene_mode">Недоступно в режиме съемки</string>
      <string name="not_supported_zoom">Масштабирование не поддерживается во время записи Full HD видео</string>
      <string name="not_write_storage">Файл не удается сохранить на карту памяти из-за ограничений доступа к нему</string>
      <string name="note_color_effect_change">Цветовой эффект отключен.</string>
@@ -799,6 +799,7 @@ Direct connected"</string>
      <string name="notify_sendFile_start_segment">отправка в</string>
      <string name="notify_waiting_approval">Ожидается подтверждение %s</string>
      <string name="off">Выкл.</string>
+	 <string name="object_track_enable_toast">Сдвиньте на экран предпросмотра, чтобы включить отслеживание объекта</string>
      <string name="ok">OK</string>
      <string name="on">Вкл.</string>
      <string name="on_capital">Включить</string>
