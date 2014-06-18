@@ -798,7 +798,6 @@ Direct connected"</string>
      <string name="notify_select_user">Сначала выберите пользователя</string>
      <string name="notify_sendFile_start_segment">отправка в</string>
      <string name="notify_waiting_approval">Ожидается подтверждение %s</string>
-     <string name="null_string" />
      <string name="off">Выкл.</string>
      <string name="ok">OK</string>
      <string name="on">Вкл.</string>
