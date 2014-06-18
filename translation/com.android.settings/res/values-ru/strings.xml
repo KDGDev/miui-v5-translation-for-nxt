@@ -3556,6 +3556,7 @@
      <string name="use_default_tts_settings_title">Только мои настройки</string>
      <string name="use_location_summary">Разрешить Google использовать данные о местоположении для улучшения поиска и работы других служб</string>
      <string name="use_location_title">Учитывать при поиске</string>
+	 <string name="use_network_warning">Xiaomi Service Framework и Cloud Service требуется подключение к сети</string>
      <string name="use_system_language_to_select_input_method_subtypes">Язык системы</string>
      <string name="user_account_title">Аккаунт для контента</string>
      <string name="user_add_profile_item_summary">Вы можете ограничить доступ к приложениям и содержанию с вашего аккаунта</string>
@@ -3563,14 +3564,14 @@
      <string name="user_add_user_item_summary">Пользователи имеют свои собственные приложения и контент</string>
      <string name="user_add_user_item_title">Пользователь</string>
      <string name="user_add_user_menu">Добавить пользователя</string>
-     <string name="user_add_user_message_long">"Если устройством пользуется несколько человек, заведите для них отдельные учетные записи. В результате у каждого пользователя появится свое пространство, где можно будет установить собственные приложения или обои. При этом некоторые параметры, например настройки Wi-Fi, останутся общими для всех.
+     <string name="user_add_user_message_long">Если устройством пользуется несколько человек, заведите для них отдельные учетные записи. В результате у каждого пользователя появится свое пространство, где можно будет установить собственные приложения или обои. При этом некоторые параметры, например настройки Wi-Fi, останутся общими для всех.
 
 Обновление приложений будет происходить для всех учетных записей одновременно. Установить обновление сможет любой пользователь.
 
-"</string>
-     <string name="user_add_user_message_short">"Каждый новый пользователь должен выполнить настройку.
+</string>
+     <string name="user_add_user_message_short">Каждый новый пользователь должен выполнить настройку.
 
-Пользователи могут разрешать обновления для любых аккаунтов на устройстве."</string>
+Пользователи могут разрешать обновления для любых аккаунтов на устройстве.</string>
      <string name="user_add_user_title">Добавить пользователя</string>
      <string name="user_add_user_type_title">Добавить</string>
      <string name="user_adding_new_user">Добавление…</string>
@@ -3598,7 +3599,7 @@
      <string name="user_dict_settings_context_menu_delete_title">Удалить</string>
      <string name="user_dict_settings_context_menu_edit_title">Изменить</string>
      <string name="user_dict_settings_edit_dialog_title">Изменить слово</string>
-     <string name="user_dict_settings_empty_text">Словарь пользователя пуст. Добавьте слово с помощью кнопки \"Добавить(+)\".</string>
+     <string name="user_dict_settings_empty_text">Словарь пользователя пуст. Добавьте слово с помощью кнопки добавить.</string>
      <string name="user_dict_settings_more_languages">Больше языков…</string>
      <string name="user_dict_settings_summary">""</string>
      <string name="user_dict_settings_title">Пользовательский словарь</string>
@@ -3652,7 +3653,7 @@
      <string name="version_text">Версия %1$s</string>
      <string name="vibrate_category_title">Вибрация</string>
      <string name="vibrate_in_normal_title">В обычном режиме</string>
-     <string name="vibrate_in_silent_title">В режиме \"Без звука\"</string>
+     <string name="vibrate_in_silent_title">В режиме без звука</string>
      <string name="vibrate_input_devices">Использовать вибро</string>
      <string name="vibrate_input_devices_summary">Перенаправить вибро на подключенный игровой контроллер</string>
      <string name="vibrate_on_ring_title">Вибрация и звук</string>
