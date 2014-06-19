@@ -10,15 +10,15 @@
      <string name="add_more_addons">добавить другие специальные</string>
      <string name="add_review">Добавить отзыв</string>
      <string name="addon" />
-     <string name="addon_category">Hot Specials</string>
+     <string name="addon_category">Специальное</string>
      <string name="addon_install_complete_disc">您已完成%s专区插件的安装，您可直接启动进入专区，或从“我的视频”里进入专区</string>
      <string name="addon_update_desc">Найдена новая версия. Обновить?</string>
      <string name="adjust_position_next_media_notice">Далее</string>
      <string name="adjust_position_prev_media_notice">Назад</string>
      <string name="airkan_control_device_des">Вы можете управлять воспроизведением видео с помощью кнопок в нижней части экрана</string>
      <string name="airkan_device_xiaomi_phone">Xiaomi</string>
-     <string name="airkan_tips">"Нажмите здесь, чтобы смотреть видео 
-на Xiaomi TV Box"</string>
+     <string name="airkan_tips">Нажмите здесь, чтобы смотреть видео 
+на Xiaomi TV Box</string>
      <string name="airkan_video_playing">воспроизводится</string>
      <string name="airkan_video_playing_in">Видео</string>
      <string name="alert_ignore">Не показывать эту страницу</string>
@@ -34,6 +34,7 @@
      <string name="authenticating_manually">Ошибка аутентификации</string>
      <string name="auto_play">Автовоспроизведение</string>
      <string name="auto_play_summary">Воспроизводить видео после буферизации или завершения загрузки</string>
+	 <string name="backkey_remark">* Примечание: нажмите кнопку назад, чтобы выйти</string>
      <string name="be_living_status">Сейчас</string>
      <string name="bestv">Bestv</string>
      <string name="brief_intro">Описание</string>
@@ -82,14 +83,15 @@
      <string name="comment_submiting">Отправка…</string>
      <string name="connecting">Подключение…</string>
      <string name="continue_to_play_nextset">Воспр. следующий эпизод</string>
-     <string name="continue_to_play_nextset_summary">Когда эпизод, который вы смотрите закончится, следующий начнется автоматически</string>
+     <string name="continue_to_play_nextset_summary">Автоматически воспроизводить следующий эпизод</string>
      <string name="count_bu">%d Prt.</string>
      <string name="count_ge">Файлов: %d</string>
      <string name="count_ji_quan">Все %d эп.</string>
-     <string name="count_myfavorite">" избранные"</string>
+     <string name="count_myfavorite"> избранные</string>
      <string name="day">" "</string>
      <string name="declaration">Условия использования</string>
      <string name="declaration_content">Вы принимаете условия использования, предусмотренные Sohu Video, iQiyi и другими контент-провайдерами видео?</string>
+	 <string name="declaration_content_short">Вы согласны с условиями использования, предусмотренные Sohu видео, iQiyi, и других поставщиков видеоконтента?</string>
      <string name="delete">Удалить</string>
      <string name="delete_addon">Удалить</string>
      <string name="delete_addon_content">Удалить этот элемент?</string>
@@ -98,7 +100,7 @@
      <string name="di_count_ji">%d серия</string>
      <string name="di_count_qi">%s сезон</string>
      <string name="dianyingwang">M1905</string>
-     <string name="director_colon">"Режиссер: "</string>
+     <string name="director_colon">Режиссер: </string>
      <string name="disk_volume">SD-карта</string>
      <string name="dlna_list_name">DLNA устройство</string>
      <string name="dlna_name">Общее устройство</string>
@@ -112,8 +114,8 @@
      <string name="download_is_in_tasklist">В списке загрузок</string>
      <string name="download_is_success">Загружено</string>
      <string name="end_live_status">Завершено</string>
-     <string name="episode_prefix">"эпизод "</string>
-     <string name="favorite">" избранное"</string>
+     <string name="episode_prefix">эпизод </string>
+     <string name="favorite"> избранное</string>
      <string name="favorited_cannot_hide">Избранные нельзя скрыть</string>
      <string name="fenghuang">iFeng</string>
      <string name="file_not_exist">Файл не найден</string>
@@ -132,6 +134,7 @@
      <string name="fullscreen_to_play">Полный экран</string>
      <string name="funshion">Funshion</string>
      <string name="gong_count_dlna">DLNA: %d</string>
+	 <string name="gong_count_netdevice">Сетевых устройств: %d</string>
      <string name="gong_count_xiang">Файлов: %d</string>
      <string name="good">OK</string>
      <string name="have_no_cameravideo">Нет видео</string>
@@ -140,6 +143,8 @@
      <string name="hided_cannot_favorite">Скрытые нельзя добавить в избранное</string>
      <string name="hint_can_not_get_source_info">Нет источника видео</string>
      <string name="hint_without_selected_set">Источник не выбран, автоматический поиск…</string>
+	 <string name="home_net_content">Приложение будет использовать Ваш сетевой трафик. Хотите продолжить?</string>
+     <string name="home_net_title">Внимание</string>
      <string name="icntv">iCNTV</string>
      <string name="in_download">Загрузка</string>
      <string name="in_download_notification">видео загружается: %d</string>
@@ -173,6 +178,7 @@
      <string name="loading"><CDATA>Загрузка </CDATA></string>
      <string name="loading_review"><CDATA>Загрузка </CDATA></string>
      <string name="loading_review_failed">Ошибка загрузки комментария</string>
+	 <string name="loading_text"><CDATA>Загрузка… </CDATA></string>
      <string name="loading_tv"><CDATA>Загрузка </CDATA></string>
      <string name="loading_video"><CDATA>Загрузка </CDATA></string>
      <string name="loading_video_netplay_label">Загрузка…</string>
@@ -211,12 +217,14 @@
      <string name="mydlna">Мое DLNA</string>
      <string name="myfavorite">Избранное</string>
      <string name="myfavorite_onlylocal">Избранное</string>
+	 <string name="net_device_name">Сетевое устройство</string>
      <string name="netease">NetEase</string>
      <string name="network_setting">Сеть</string>
      <string name="no_comment_tip">Нельзя отправить пустой комментарий</string>
      <string name="no_favorite">Пусто</string>
      <string name="no_favoritehistory">Нет избранных каналов</string>
      <string name="no_filter_media">Ничего не найдено</string>
+	 <string name="no_hot_special">Пусто</string>
      <string name="no_login_xiaomi_account">Войдите в аккаунт Xiaomi для отправки комментария</string>
      <string name="no_media">Пусто</string>
      <string name="no_myfavorite">Пусто</string>
@@ -244,10 +252,11 @@
      <string name="offline_media">Офлайн</string>
      <string name="offline_media_more">Еще</string>
      <string name="offline_no_source">Нет источника</string>
-     <string name="offline_no_wifi">Вы не используете Wi-Fi сеть. Включите в настройках опцию \"Мобильный интернет\", если хотите продолжить.</string>
+     <string name="offline_no_wifi">Вы не используете Wi-Fi сеть. Включите в настройках опцию мобильный интернет, если хотите продолжить.</string>
      <string name="offline_select_better_source">Переключение на доступный кэшированный источник</string>
      <string name="offline_setting">Офлайн медиа</string>
      <string name="ok">OK</string>
+	 <string name="ok_no_more">Больше не спрашивать</string>
      <string name="online_video">Онлайн</string>
      <string name="open_camera">Камера</string>
      <string name="other_setting">Прочие</string>
@@ -261,7 +270,7 @@
      <string name="pick_video_to_hide">Выберите</string>
      <string name="pick_video_to_myfavorite">Выберите</string>
      <string name="play">Смотреть</string>
-     <string name="play_length_colon">"Время: "</string>
+     <string name="play_length_colon">Время: </string>
      <string name="play_setting">Воспроизведение</string>
      <string name="playvideo">Смотреть</string>
      <string name="pps">PPS</string>
@@ -288,11 +297,13 @@
      <string name="search_result_recommend_hint">Видео по теме не найдено. Попробуйте другие ключевые слова.</string>
      <string name="search_result_recommend_title">Все смотрят</string>
      <string name="searching"><CDATA>Поиск </CDATA></string>
-     <string name="seconds">" сек."</string>
+     <string name="seconds"> сек.</string>
      <string name="select_all">Выбрать все</string>
      <string name="select_media_source">Выберите источник</string>
-     <string name="series_colon">"Эпизодов: "</string>
+     <string name="series_colon">Эпизодов: </string>
      <string name="setting">Настройки</string>
+	 <string name="setting_use_network">Использовать сеть</string>
+     <string name="setting_use_network_summery">Приложение будет использовать сетевой трафик</string>
      <string name="show_hidemedia">Показывать скрытые файлы</string>
      <string name="sina">Sina</string>
      <string name="souhu">Souhu</string>
@@ -305,11 +316,12 @@
      <string name="success_cancel_myfavorite">Убрано из избранного</string>
      <string name="success_cancel_waitfornewset">Отслеживание обновлений отменено</string>
      <string name="success_to_cancel_myfavorite">Отменено</string>
-     <string name="tags_colon">"Жанр: "</string>
+	 <string name="sure">OK</string>
+     <string name="tags_colon">Жанр: </string>
      <string name="temp_play_history_button_label">История просмотров</string>
      <string name="tencent">Tencent</string>
-     <string name="time_colon">"Год: "</string>
-     <string name="to_be_play_label_v5">"Далее: "</string>
+     <string name="time_colon">Год: </string>
+     <string name="to_be_play_label_v5">Далее: </string>
      <string name="to_live_status">Скоро</string>
      <string name="to_play_airekan">Cast</string>
      <string name="toast_back_key_pressed_notice">Нажмите еще раз, чтобы выйти</string>
@@ -318,7 +330,7 @@
      <string name="toast_message_continue_play_minute">м. </string>
      <string name="toast_message_continue_play_second_and_play">с.</string>
      <string name="toast_message_set_misound">Установите MiSound в настройках</string>
-     <string name="today">"Сегодня "</string>
+     <string name="today">Сегодня </string>
      <string name="top_null_videoname">неизвестно</string>
      <string name="top_status_local_media">Локально</string>
      <string name="top_status_online_media">Онлайн</string>
@@ -328,10 +340,11 @@
      <string name="update_to_count_ji">Добавлена %d серия</string>
      <string name="update_to_count_qi">Добавлен %s сезон</string>
      <string name="updatedalready">Обновлено</string>
+	 <string name="upgrade">Обновить</string>
      <string name="use_cellular_network">Мобильный интернет</string>
      <string name="use_cellular_network_summary">Использовать мобильный интернет для загрузки видео. Возможны денежные затраты.</string>
      <string name="variety">Разное</string>
-     <string name="video">" видео"</string>
+     <string name="video"> видео</string>
      <string name="video_info_audio_bitrate_label">Аудио битрейт:</string>
      <string name="video_info_audio_coding_label">Аудио кодек:</string>
      <string name="video_info_audio_null">Нет</string>
@@ -357,12 +370,12 @@
      <string name="waitfornewset">Отслеживать</string>
      <string name="waitfornewset_tip_content">Вы будете уведомлены, когда будет доступен новый эпизод или дополнительный контент</string>
      <string name="wasu">Wasu</string>
-     <string name="will_live_status">" в эфире"</string>
+     <string name="will_live_status"> в эфире</string>
      <string name="write_comment">"Отзыв "</string>
      <string name="xiaomi_account_type_unsupported">Ваша система не поддерживает аккаунт Xiaomi</string>
      <string name="xiaomi_user">Аккаунт Xiaomi</string>
      <string name="year">.</string>
-     <string name="yestorday">"Вчера "</string>
+     <string name="yestorday">Вчера </string>
      <string name="yinyuetai">YinYueTai</string>
      <string name="youku">Youku</string>
 </resources>
