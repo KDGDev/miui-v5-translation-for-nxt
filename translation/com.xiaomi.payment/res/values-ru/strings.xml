@@ -83,20 +83,20 @@
      <string name="detail_recharge_order">Номер заказа</string>
      <string name="detail_recharge_time">Время</string>
      <string name="detail_recharge_title">Пополнения</string>
-     <string name="error_account_changed_summary">"Изменилась информация об аккаунте.
-Пожалуйста, войдите занова."</string>
+     <string name="error_account_changed_summary">Изменилась информация об аккаунте.
+Пожалуйста, войдите занова.</string>
      <string name="error_account_changed_title">Аккаунт изменен</string>
      <string name="error_auth_summary">Ошибка входа в аккаунт. Повторите попытку.</string>
      <string name="error_auth_title">Ошибка входа</string>
      <string name="error_bankcard_verify_summary">Ошибка проверки карты</string>
-     <string name="error_cert_date_summary">"Ошибка данных сертификата. 
-Проверьте локальные данные и повторите."</string>
+     <string name="error_cert_date_summary">Ошибка данных сертификата. 
+Проверьте локальные данные и повторите.</string>
      <string name="error_cert_date_title">Ошибка сертификата</string>
      <string name="error_common_summary">Системная ошибка. Пожалуйста, попробуйте позже.</string>
      <string name="error_common_title">Системная ошибка</string>
      <string name="error_expired_summary">Ваш срок заказа истек</string>
-     <string name="error_frozen_summary">"Ваш аккаунт заморожен. 
-Свяжитесь со службой поддержки Xiaomi."</string>
+     <string name="error_frozen_summary">Ваш аккаунт заморожен. 
+Свяжитесь со службой поддержки Xiaomi.</string>
      <string name="error_frozen_title">Аккаунт заморожен</string>
      <string name="error_giftcard_summary">Не возможно получить информацию о подарочной карте</string>
      <string name="error_has_bought_summary">Вы уже купили этот продукт</string>
@@ -108,8 +108,8 @@
      <string name="error_network_title">Ошибка сети</string>
      <string name="error_server_summary">Ошибка сервера. Пожалуйста, попробуйте позже.</string>
      <string name="error_server_title">Ошибка сервера</string>
-     <string name="error_too_frequent_visits_summary">"Вы запрашиваете слишком часто. 
-Пожалуйста, попробуйте еще раз через пять минут."</string>
+     <string name="error_too_frequent_visits_summary">Вы запрашиваете слишком часто. 
+Пожалуйста, попробуйте еще раз через пять минут.</string>
      <string name="error_too_frequent_visits_title">Слишком часто</string>
      <string name="error_user_id_mismatch_summary">Пожалуйста, проверьте настройки аккаунта и попробуйте снова</string>
      <string name="error_user_id_mismatch_title">Ошибка аутентификации</string>
@@ -173,18 +173,21 @@
      <string name="lockpattern_recording_incorrect_too_short">Соедините минимум %d точек. Попробуйте еще раз:</string>
      <string name="lockpattern_recording_inprogress">Отпустите палец, когда закончите</string>
      <string name="lockpattern_recording_intro_header">Нарисуйте ключ разблокировки:</string>
-     <string name="lockpattern_retry_text"><u>Сбросить пароль</u></string>
+     <string name="lockpattern_retry_text">Сбросить пароль</string>
      <string name="lockpattern_settings_help_how_to_record">Как нарисовать шаблон</string>
      <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Попробуйте еще раз через %d секнуд</string>
      <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Слишком много неудачных попыток!&lt;/font></string>
      <string name="lockpattern_tutorial_cancel_label">Отмена</string>
      <string name="lockpattern_tutorial_continue_label">Далее</string>
-     <string name="lockscreen_forgot_pattern_button_text"><u>Забыли пароль?</u></string>
+     <string name="lockscreen_forgot_pattern_button_text">Забыли пароль?</string>
      <string name="login">Войти</string>
      <string name="memu_refresh">Обновить</string>
+	 <string name="mibi_license_checkbox_prompt">Больше не напоминать</string>
      <string name="mibi_license_message">Прежде чем воспользоваться этой услугой, вы должны согласиться с условиями предоставления услуг, указанными в %1$s.
 Нажмите OK, если согласны с правилами и условиями, описанными в %1$s.</string>
      <string name="mibi_license_message_span">MiCredit пользовательское соглашение</string>
+	 <string name="mibi_license_net_prompt_message">Использование приложения может увеличить использование трафика</string>
+     <string name="mibi_license_net_prompt_title">Требуется подключение к сети</string>
      <string name="mibi_license_title">Пользовательское соглашение</string>
      <string name="mili_center">MiCredit</string>
      <string name="msg_denomination_type">MiCredit</string>
@@ -258,11 +261,11 @@
      <string name="progress_success_recharge_summary">Баланс: %1$s MiCredit</string>
      <string name="progress_success_recharge_title">Пополнение на %1$s MiCredit завершено</string>
      <string name="progress_voucher_creating">Пополнение баланаса картой MiCredit…</string>
-     <string name="progress_warning_check">"Пока не проверено.
-Мы проверим в течение двух рабочих дней."</string>
-     <string name="progress_warning_contact_server">"Платеж все еще не подтвержден. 
+     <string name="progress_warning_check">Пока не проверено.
+Мы проверим в течение двух рабочих дней.</string>
+     <string name="progress_warning_contact_server">Платеж все еще не подтвержден. 
 1. Пожалуйста, свяжитесь со службой поддержки в Шеньчжоу: %1$s 
-2. Сообщите свой серийный номер: %2$s"</string>
+2. Сообщите свой серийный номер: %2$s</string>
      <string name="progress_warning_waiting">Еще не подтвержден. Пожалуйста, повторите попытку позже.</string>
      <string name="recharge_bankcall_title">Банковская карта</string>
      <string name="recharge_denomination">%1$s￥</string>
@@ -292,7 +295,7 @@
      <string name="sms_code_hint">Проверочный код</string>
      <string name="summary_bind_phone">Чтобы обеспечить безопасность своей учетной записи, пожалуйста, заполните компенсацию после привязки номера телефона.</string>
      <string name="summary_lockpattern">Защита ключем блокировки</string>
-     <string name="summary_sms_code">Чтобы обеспечить безопасность своей учетной записи, введите код подтверждения, полученный на номер %1$s, а затем закончить процедуру.</string>
+     <string name="summary_sms_code">Чтобы обеспечить безопасность своей учетной записи, введите код подтверждения, полученный на номер %1$s, а затем закончите процедуру.</string>
      <string name="title_bind_phone">Привязать номер</string>
      <string name="title_change_lockpattern">Сменить ключ</string>
      <string name="title_discounts">Акции и скидки</string>
@@ -301,11 +304,13 @@
      <string name="title_lockpattern">Включить блокировку</string>
      <string name="title_mili_center">Мои MiCredit</string>
      <string name="title_myaccount">Мой аккаунт: %s</string>
+	 <string name="title_need_prompt">Запрашивать доступ к сети</string>
      <string name="title_nopassword">Не требовать для мелких платежей</string>
      <string name="title_nopassword_dialog">Суточный лимит</string>
      <string name="title_password">Пароль</string>
      <string name="title_password_threshold">Суточный лимит = %1$s￥</string>
      <string name="title_pay_record">История платежей</string>
+	 <string name="title_prompt">Уведомления</string>
      <string name="title_recharge">Пополнить баланс</string>
      <string name="title_recharge_record">Пополнения</string>
      <string name="title_sms_code">Введите проверочный код</string>
