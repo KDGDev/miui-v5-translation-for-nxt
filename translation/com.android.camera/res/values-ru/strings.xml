@@ -322,6 +322,7 @@
      <string name="cannot_connect_camera">Не удаeтся подключиться к камере</string>
      <string name="cannot_connect_camera_once">Не возможно подключится к камере. Перезайдите в приложение.</string>
      <string name="cannot_connect_camera_twice">Не возможно подключится к камере. Перезагрузите устройство.</string>
+	 <string name="cannot_move_warning_message">Съемка фото. Не перемещайте устройство.</string>
      <string name="cannot_start_camcorder_msg">Запись видео во время вызова невозможна</string>
      <string name="cannot_start_camera_msg">Невозможно запустить камеру во время вызова</string>
      <string name="cannot_write_file">Не удается сохранить файл на SD-карту. По умолчанию хранение было изменено на память устройства.</string>
@@ -1774,6 +1775,7 @@ Direct connected"</string>
      <string name="txt_switch_to_phone_storage">Карта памяти заполнена или недоступна. Хранение переключено на память телефона.</string>
      <string name="txt_switch_to_sdcard">Память телефона заполнена или недоступна. Хранение переключено на карту памяти.</string>
      <string name="ubi_focus_exit_button_text">Выйти</string>
+	 <string name="ubifocus_capture_warning_message">Лучше, когда экран просмотра содержит как вблизи (менее одного метра от объектива) и далеких объектов</string>
      <string name="ui_effect_aqua">Голубой</string>
      <string name="ui_effect_blackboard">Классная доска</string>
      <string name="ui_effect_bluetint">Синий тон</string>
