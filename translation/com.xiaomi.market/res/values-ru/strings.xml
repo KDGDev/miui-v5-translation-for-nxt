@@ -46,7 +46,7 @@
      <string name="comment_upload_hint">Ваш комментарий появится после проверки</string>
      <string name="comment_upload_login_cancel">Отмена</string>
      <string name="comment_upload_need_login">Хотите войти сейчас, чтобы добавить комментарий?</string>
-     <string name="comment_upload_not_logined">Сначала войдите в аккаунт XiaoMi.</string>
+     <string name="comment_upload_not_logined">Сначала войдите в аккаунт XiaoMi</string>
      <string name="comment_upload_success">Комментарий отправлен! Он будет показан после проверки.</string>
      <string name="comment_version_name">(версия %1$s)</string>
      <string name="connect_fail">Ошибка установки %1$s: ошибка соединения, проверьте подключение к сети</string>
@@ -55,7 +55,7 @@
      <string name="connecting">Подключение…</string>
      <string name="data_save_mode_tip">Изображения отключены</string>
      <string name="delete_confirm">Удалить выбранные приложения: %1$s?</string>
-     <string name="delete_confirm_system_app">Удалить выбранные приложения: %1$s? %2$s в системном разделе.</string>
+     <string name="delete_confirm_system_app">Удалить выбранные приложения: %1$s? %2$s в системном разделе</string>
      <string name="delete_selected_apps">Удалить</string>
      <string name="deleting">Удаление</string>
      <string name="delta_update">Обновление %1$s</string>
@@ -86,6 +86,11 @@
      <string name="enable_updata_local_app">Обновлений: %1$s</string>
      <string name="expand_full_text">Далее</string>
      <string name="expand_full_text_comment">Развернуть▼</string>
+	 <string name="expansion_append_download_name">%1$s pack 2</string>
+     <string name="expansion_confirm_message">This application is with expansion pack, the installation process may take longer. Whether to continue the installation?</string>
+     <string name="expansion_confirm_title">App with expansion</string>
+     <string name="expansion_info">(expansion files %1$s）</string>
+     <string name="expansion_main_download_name">%1$s pack 1</string>
      <string name="favorite_account_need_activitied">Аккаунт не активирован. Активировать сейчас?</string>
      <string name="favorite_account_need_login">Войти, чтобы добавить приложение в избранное?</string>
      <string name="favorite_cancel_acount_need_login">Войти, чтобы убрать приложение из избранного?</string>
@@ -111,7 +116,7 @@
      <string name="install_btn_ok">OK</string>
      <string name="install_earlier">Ранее</string>
      <string name="install_fail">Ошибка установки. Попробуйте снова.</string>
-     <string name="install_google_base_message">\"%1$s\" требует Google Service Framework</string>
+     <string name="install_google_base_message">"%1$s" требует Google Service Framework</string>
      <string name="install_google_base_title">Установка Google Service Framework</string>
      <string name="install_hash_fail">Ошибка установки. Загрузите пакет снова.</string>
      <string name="install_inconsistent_fail">Ошибка подписи. Удалите приложение и попробуйте снова.</string>
@@ -256,7 +261,7 @@
      <string name="pref_title_network_diagnostics">Диагностика сети</string>
      <string name="pref_title_silent_install">Тихая установка</string>
      <string name="pref_title_slient_install">Скачиваемые приложения будут установлены без каких-либо всплывающих окон или уведомлений</string>
-     <string name="pref_title_update_all">Чтобы получить все доступные обновления для Ваших приложений в одно касание, перейдите на вкладку \"Обновления\" и нажмите \"Обновить все\"</string>
+     <string name="pref_title_update_all">Чтобы получить все доступные обновления для Ваших приложений в одно касание, перейдите на вкладку обновления и нажмите обновить все</string>
      <string name="pref_title_update_notification">Обновления</string>
      <string name="pref_title_update_notify_mode">Уведомления об обновлениях</string>
      <string name="pref_title_update_onlyby_wifi">Обновление только по Wi-Fi</string>
@@ -275,7 +280,7 @@
      <string name="result_of_clear_history">История поиска очищена</string>
      <string name="resume">Возобновить</string>
      <string name="search_local_app_text_hint">Поиск в приложениях: %1$d</string>
-     <string name="search_not_found">\"%1$s\" не найдено</string>
+     <string name="search_not_found">"%1$s" не найдено</string>
      <string name="search_other_market">Поискать еще</string>
      <string name="search_recommend_hint">Вам понравится</string>
      <string name="search_recommend_ingore">Игнор</string>

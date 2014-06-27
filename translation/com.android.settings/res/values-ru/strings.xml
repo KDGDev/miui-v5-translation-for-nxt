@@ -29,7 +29,7 @@
      <string name="MobileNetwork_SIM1_Active">SIM1 активна</string>
      <string name="MobileNetwork_SIM2_Active">SIM2 активна</string>
      <string name="MobileNetwork_SIM_Active">SIM%1$s активна</string>
-     <string name="MobileNetwork_off_Summary">Пожалуйста, включите интернет перед использованием A-GPS.</string>
+     <string name="MobileNetwork_off_Summary">Пожалуйста, включите интернет перед использованием A-GPS</string>
      <string name="MobileNetwork_on_Summary">Для работы A-GPS необходимо подключение к интернету</string>
      <string name="NI_Request_ClientName">Имя клиента</string>
      <string name="NI_Request_ID">Запрос ID</string>
@@ -90,7 +90,7 @@
      <string name="accessibility_power_button_ends_call_prerefence_title">Кнопка питания завершает вызов</string>
      <string name="accessibility_power_button_ends_call_title">Кнопка питания завершает вызов</string>
      <string name="accessibility_screen_magnification_enable">Увеличение жесты</string>
-     <string name="accessibility_screen_magnification_summary">"Эта функция позволяет увеличивать и уменьшать изображение, трижды нажав на экран.
+     <string name="accessibility_screen_magnification_summary">Эта функция позволяет увеличивать и уменьшать изображение, трижды нажав на экран.
 
 При увеличенном масштабе можно:
 <ul><li>панорамировать – проведите пальцами по экрану;</li>
@@ -98,7 +98,7 @@
 
 Чтобы временно увеличить изображение под пальцем, трижды нажмите на экран и удерживайте его. Проведя пальцем, вы можете посмотреть на другие области экрана. Чтобы вернуть экран в прежнее состояние, уберите палец.
 
-Примечание. Тройным нажатием увеличиваются все области, кроме клавиатуры и панели навигации."</string>
+Примечание. Тройным нажатием увеличиваются все области, кроме клавиатуры и панели навигации.</string>
      <string name="accessibility_screen_magnification_title">Жесты для увеличения</string>
      <string name="accessibility_script_injection_allowed">Разрешена</string>
      <string name="accessibility_script_injection_button_allow">Разрешить</string>
@@ -107,10 +107,12 @@
      <string name="accessibility_script_injection_security_warning_summary">Разрешить приложениям устанавливать скрипты Google для повышения доступности веб-контента?</string>
      <string name="accessibility_script_injection_title">Установка веб-скриптов</string>
      <string name="accessibility_service_default_description">Нет описания</string>
+	 <string name="accessibility_service_no_apps_confirm">OK</string>
      <string name="accessibility_service_disable_warning_summary">Чтобы отключить %1$s, нажмите ОК</string>
      <string name="accessibility_service_disable_warning_title">Отключить %1$s?</string>
      <string name="accessibility_service_no_apps_message">Бесплатное приложение TalkBack дает голосовое описание элементов интерфейса для пользователей с нарушениями зрения. Установить его из Android Маркета?</string>
-     <string name="accessibility_service_no_apps_title">Нужна программа чтения с экрана?</string>
+     <string name="accessibility_service_no_apps_prompt">Бесплатное приложение TalkBack дает голосовое описание элементов интерфейса для пользователей с нарушением зрения. Скачать приложение можно в Google Play.</string>
+	 <string name="accessibility_service_no_apps_title">Нужна программа чтения с экрана?</string>
      <string name="accessibility_service_security_warning_summary">Служба %1$s может сохранять любой вводимый текст, кроме паролей. В частности, сохраняются личные сведения, например номера кредитных карт. Кроме того, могут собираться данные об использовании телефона.</string>
      <string name="accessibility_service_security_warning_title">Использовать %1$s?</string>
      <string name="accessibility_service_state_off">Отключено</string>
