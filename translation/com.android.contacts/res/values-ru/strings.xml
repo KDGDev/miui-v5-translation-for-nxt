@@ -195,7 +195,7 @@
      <string name="contactsGroupsLabel">Группы</string>
      <string name="contactsJoinedMessage">Контакты объединены</string>
      <string name="contactsList">Контакты</string>
-     <string name="contacts_unavailable_add_account">Войти в аккаунт, чтобы</string>
+     <string name="contacts_unavailable_add_account">Войти в аккаунт</string>
      <string name="contacts_unavailable_create_contact">Создать новый контакт</string>
      <string name="contacts_unavailable_import_contacts">Импортировать из файла</string>
      <string name="copy_text">Копировать в буфер обмена</string>
@@ -595,7 +595,7 @@
      <string name="nickname_picker_name_column">Имя контакта</string>
      <string name="nickname_picker_nickname_column">Имя</string>
      <string name="noAccounts">Для создания групп нужен аккаунт</string>
-     <string name="noContactHelpTextAccountsInfo">Синхронизировать контакты Xiaomi, Google, Exchange</string>
+     <string name="noContactHelpTextAccountsInfo">Xiaomi, Google или Exchange</string>
      <string name="noContactHelpTextImportXiaomiAccountInfo">Восстановить контакты из резервной копии в аккаунте Xiaomi и MiTalk</string>
      <string name="noContacts">Нет контактов</string>
      <string name="noContactsHelpText">Нет контактов для отображения.
@@ -649,7 +649,7 @@
  
 нажмите на нужный контакт
  
-нажмите на звездочку возле имени контакта</string>
+нажмите на звездочку возле имени контакта.</string>
      <string name="noGroups">Нет групп</string>
      <string name="noMatchingContacts">Подходящие контакты не найдены</string>
      <string name="noRecentContacts">Нет контактов</string>
@@ -1153,6 +1153,7 @@
      <string name="yellowPageNavigationIconLabel">Сервисы</string>
      <string name="yellowPageNavigationLabel">Сервисы</string>
      <string name="yellowpage_navigation_menu_order">Мои заказы</string>
+	 <string name="yellowpage_navigation_more_items">Еще</string>
      <string name="yellowpage_navigation_network_location_enable">Включить</string>
      <string name="yellowpage_navigation_network_location_enable_later">Отмена</string>
 	 <string name="yellowpage_navigation_network_location_enabled">Сервис включен. Вы можете отключить его в настройках местоположения.</string>
@@ -1167,6 +1168,9 @@
      <string name="yellowpage_navigation_search_result_service_error">Сервис недоступен</string>
      <string name="yellowpage_navigation_search_result_unknown_error">Произошла неизвестная ошибка</string>
      <string name="yellowpage_navigation_search_select_city">Выберите город</string>
+	 <string name="yellowpage_navigation_send_to_desktop_downloading">Загрузка иконки…</string>
+     <string name="yellowpage_navigation_send_to_desktop_failed">Ошибка. Проверьте настройки сети.</string>
      <string name="yellowpage_navigation_send_to_desktop_succeeded">Добавлено на рабочий стол</string>
+	 <string name="yellowpage_user_profile">Профиль</string>
      <string name="zero_items_selected">Выберите контакты</string>
 </resources>

@@ -81,7 +81,7 @@
      <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Последняя вкладка</string>
      <string name="bottom_bar_tabs_long_click_up_tip_txt">Сдвиг вверх - закрыть</string>
      <string name="browserFrameFileErrorLabel">Проблема с файлом</string>
-     <string name="browserFrameFormResubmitMessage">Страница, которую Вы пытаетесь открыть, содержит уже отправленные данные (POSTDATA). В случае их повторной отправки повторятся все действия, выполненные на странице после заполнения формы (например, поиск или покупка)</string>
+     <string name="browserFrameFormResubmitMessage">Страница, которую Вы пытаетесь открыть, содержит уже отправленные данные (POSTDATA). В случае их повторной отправки повторятся все действия, выполненные на странице после заполнения формы (например, поиск или покупка).</string>
      <string name="browserFrameNetworkErrorLabel">Ошибка подключения</string>
      <string name="cancel">Отмена</string>
      <string name="cannot_download">Загрузка возможна только с URL, начинающихся с "http" или "https"</string>
@@ -170,7 +170,7 @@
      <string name="download_no_sdcard_dlg_msg">Для загрузки файла %s требуется USB-накопитель.</string>
      <string name="download_no_sdcard_dlg_title">USB-накопитель недоступен</string>
      <string name="download_pending">Начинается загрузка…</string>
-     <string name="download_sdcard_busy_dlg_msg">USB-накопитель занят. Чтобы разрешить загрузки, выберите "Отключить USB-накопитель" в уведомлении.</string>
+     <string name="download_sdcard_busy_dlg_msg">USB-накопитель занят. Чтобы разрешить загрузки, выберите отключить USB-накопитель в уведомлении.</string>
      <string name="download_sdcard_busy_dlg_title">USB-накопитель недоступен</string>
      <string name="downloaded">Загружено</string>
      <string name="downloading">Загрузка</string>
@@ -185,6 +185,7 @@
      <string name="empty_bookmarks_folder">Нет закладок</string>
      <string name="empty_history">Нет данных</string>
      <string name="empty_snapshots_folder">Нет сохраненных страниц</string>
+	 <string name="enter_developer_mode">Режим для разработчиков</string>
      <string name="error_console_eval_button_text">Оценить</string>
      <string name="error_console_eval_text_hint">Оценить JavaScript</string>
      <string name="error_console_header_text_maximized">Консоль JavaScript</string>

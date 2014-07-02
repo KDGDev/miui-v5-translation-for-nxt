@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with NXT -->
 <resources>
-     <string name="account_abnormal_state">Неверная информация об учетной записи, попробуйте войти снова или повторите попытку позже!</string>
+     <string name="account_abnormal_state">Неверная информация об учетной записи. Попробуйте войти снова или повторите попытку позже!</string>
      <string name="account_info">Мой аккаунт</string>
      <string name="account_unactivated">Аккаунт не активирован</string>
      <string name="all_resources">Все</string>
@@ -13,7 +13,7 @@
      <string name="apply_font_tip">Тема содержит шрифт, требуется перезагрузка</string>
      <string name="apply_theme_with_ringtones">Применять с рингтонами</string>
      <string name="backup_preference_title">Резервное копирование</string>
-     <string name="backup_theme_dialog_message">"Резервное копирование текущей темы"</string>
+     <string name="backup_theme_dialog_message">Резервное копирование текущей темы</string>
      <string name="backup_theme_dialog_ok">ОК</string>
      <string name="backup_theme_name">Моя тема</string>
      <string name="backup_theme_progress_message">Сохранение…</string>
@@ -125,7 +125,7 @@
      <string name="resource_download_trial">Попробовать</string>
      <string name="resource_downloaded_title">Скачанные</string>
      <string name="resource_downloading">Скачивание</string>
-     <string name="resource_exchange">Принять</string>
+     <string name="resource_exchange">Подарочная карта</string>
      <string name="resource_exchange_confirm">OK</string>
      <string name="resource_exchange_empty_format">Введите код!</string>
      <string name="resource_exchange_has_bought">Вы уже купили эту тему</string>
@@ -213,8 +213,8 @@
      <string name="short_ringtone_resource">Короткие</string>
      <string name="theme_another_import_running">Процесс импорта уже запущен, попробуйте позже.</string>
      <string name="theme_batch_has_update_text">Тем для обновления: %1$d</string>
-     <string name="theme_batch_update_all">Обновить все</string>
-     <string name="theme_batch_update_dlg_content">Вы уверены, что хотите обновить сейчас?</string>
+     <string name="theme_batch_update_all">Обновить %1$s и еще %2$d другие темы?</string>
+     <string name="theme_batch_update_dlg_content">Обновить %1$s сейчас?</string>
      <string name="theme_batch_update_dlg_content_single">Обновить сейчас?</string>
      <string name="theme_batch_update_dlg_title">Обновить</string>
      <string name="theme_batch_updating_text">Обновляется тем: %1$d</string>
@@ -258,7 +258,7 @@
      <string name="theme_import_item_importing">Обновление…</string>
      <string name="theme_import_item_not_exist">Не существует</string>
      <string name="theme_import_item_not_upgraded">Не обновлено</string>
-     <string name="theme_import_item_reject_use">Тема в процессе обновления, пожалуйста подождите…</string>
+     <string name="theme_import_item_reject_use">Тема в процессе обновления, подождите…</string>
      <string name="theme_import_item_waiting">Ожидание</string>
      <string name="theme_import_new_download">Импорт</string>
      <string name="theme_import_normal">Обновление темы</string>
