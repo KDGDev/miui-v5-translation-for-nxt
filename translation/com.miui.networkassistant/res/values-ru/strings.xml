@@ -147,13 +147,7 @@
      <string name="pref_title_traffic_speed_state">Показывать скорость сети</string>
      <string name="pref_title_update_notification">Показывать трафик на панели</string>
 	 <string name="pref_traffic_saving_issue">Информация</string>
-     <string name="pref_traffic_saving_issue_content">Это безопасно?
-	 
-Да, все ваши данные (персональная информация) в полной безопасности при использовании услуги сжатие трафика
-
-Включено сохранение, но нет сжатого трафика?
-
-Сжатие работает только при использовании мобильного интернета, а не Wi-Fi</string>
+     <string name="pref_traffic_saving_issue_content">&lt;b>Это безопасно?&lt;/b>&lt;br />&lt;br />Да, все ваши данные (персональная информация) в полной безопасности при использовании услуги сжатие трафика&lt;br />&lt;br />&lt;br />&lt;b>Включено сохранение, но нет сжатого трафика?&lt;/b>&lt;br />&lt;br />Сжатие работает только при использовании мобильного интернета, а не Wi-Fi</string>
      <string name="pref_traffic_saving_notify_switch">Показывать уведомление</string>
      <string name="pref_traffic_saving_notify_switch_hint">Показывать информацию о сжатии трафика в панели уведомлений</string>
      <string name="pref_traffic_saving_switch">Сжимать трафик</string>
