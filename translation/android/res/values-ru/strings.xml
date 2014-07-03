@@ -1794,7 +1794,7 @@
      <string name="shareactionprovider_share_with">Открыть доступ:</string>
      <string name="shareactionprovider_share_with_application">Открыть доступ приложению "%s</string>
      <string name="short_format_month">%b</string>
-     <string name="shutdown_confirm">Телефон будет выключен</string>
+     <string name="shutdown_confirm">Выключить устройство?</string>
      <string name="shutdown_confirm_question">Завершить работу?</string>
      <string name="shutdown_progress">Выключение…</string>
      <string name="silent_mode">Режим без звука</string>

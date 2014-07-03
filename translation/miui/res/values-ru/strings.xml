@@ -258,7 +258,7 @@
      <string name="country_name_zm">Замбия</string>
      <string name="country_name_zw">Зимбабве</string>
      <string name="day_following_good_friday" />
-     <string name="day_of_month">" %d"</string>
+     <string name="day_of_month"> %d</string>
      <string name="days">%d дн.</string>
      <string name="delete">Удалить</string>
      <string name="device_hongmi">Телефон Hongmi</string>
@@ -266,7 +266,7 @@
      <string name="double_seventh_day" />
      <string name="easter" />
      <string name="emergency_call_string">Экстренные</string>
-     <string name="err_resource_leak">К сожалению, \"%1$s\" остановлен для избежания утечки ресурсов</string>
+     <string name="err_resource_leak">К сожалению, "%1$s" остановлен для избежания утечки ресурсов</string>
      <string name="error_forbidden">Ошибки в аккаунте. Синхронизация отключена.</string>
      <string name="error_not_acceptable">Ошибки на сервере. Синхронизация отключена.</string>
      <string name="error_title">Ошибка синхронизации</string>
@@ -280,19 +280,19 @@
      <string name="experimental_validate_username">Логин Xiaomi</string>
      <string name="experimental_validate_warning">Каждое Ваше исследование помогает стать MIUI лучше!</string>
      <string name="find_device_check_sim">Проверка SIM-карты…</string>
-     <string name="find_device_sim_change_instructions">"Ваше устройство заблокировано. 
+     <string name="find_device_sim_change_instructions">Устройство заблокировано. 
 Вставьте SIM-карту или введите пароль для аккаунта Xiaomi."</string>
-     <string name="find_device_sim_change_instructions_no_network">"Ваше устройство заблокировано. 
-Пожалуйста, вставьте оригинальную SIM-карту."</string>
+     <string name="find_device_sim_change_instructions_no_network">Устройство заблокировано. 
+Пожалуйста, вставьте оригинальную SIM-карту.</string>
      <string name="find_device_turn_off_flight_mode">Отключите режим полета</string>
-     <string name="find_device_turn_off_flight_mode_instructions">"Ваше устройство заблокировано. 
-Пожалуйста, отключите режим полета."</string>
+     <string name="find_device_turn_off_flight_mode_instructions">Устройство заблокировано. 
+Пожалуйста, отключите режим полета.</string>
      <string name="firewall_setting">Черный список</string>
-     <string name="first_back_long_press_message">"Вы хотите, чтобы функция долгого нажатия клавиши возврата, закрывало приложение и его сервисы? 
+     <string name="first_back_long_press_message">Вы хотите, чтобы функция долгого нажатия клавиши возврата, закрывало приложение и его сервисы? 
 
-Включите через Настройки > Система > Настройки кнопок".</string>
+Включите через настройки > система > настройки кнопок.</string>
      <string name="fools_day" />
-     <string name="force_exit_message">Приложение \"%1$s\" закрыто</string>
+     <string name="force_exit_message">Приложение "%1$s" закрыто</string>
      <string name="forget_password_string">Вспомнить</string>
      <string name="format_time_in_12_hours">hh:mma</string>
      <string name="global_action_privacy_mode_dialog_message">В режиме гостя сообщения, журналы вызовов и заметки будут скрыты, а также Вы не сможете редактировать рабочий стол</string>
@@ -326,22 +326,22 @@
      <string name="labour_day" />
      <string name="lantern_festival" />
      <string name="light_snow" />
-     <string name="lock_screen_date">"d MMMM yyyy
-EEEE"</string>
-     <string name="lockscreen_access_pattern_cell_added">Сотовая добавлена</string>
+     <string name="lock_screen_date">d MMMM yyyy
+EEEE</string>
+     <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
      <string name="lockscreen_access_pattern_cleared">Шаблон очищен</string>
      <string name="lockscreen_access_pattern_detected">Шаблон завершен</string>
      <string name="lockscreen_access_pattern_start">Шаблон начат</string>
      <string name="lockscreen_emergency_call">Только экстренные</string>
-     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"%d раз был неправильно введен пароль. После %d неудачных попыток, вам будет предложено разблокировать телефон с помощью вашего аккаунта.
+     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">%d раз был неправильно введен пароль. После %d неудачных попыток, вам будет предложено разблокировать телефон с помощью вашего аккаунта.
 
- Попробуйте снова через %d секунд."</string>
+ Попробуйте снова через %d секунд.</string>
      <string name="lockscreen_forgot_pattern_button_text">Вспомнить</string>
      <string name="lockscreen_pattern_instructions">Нарисуйте шаблон, чтобы разблокировать</string>
      <string name="lockscreen_pattern_wrong">Попробовать снова</string>
      <string name="lockscreen_too_many_failed_attempts_countdown">Попробуйте снова через %d сек.</string>
      <string name="lockscreen_transport_next_description">Кнопка следующий трек</string>
-     <string name="lockscreen_transport_play_description">Кнопка Играть</string>
+     <string name="lockscreen_transport_play_description">Кнопка играть</string>
      <string name="lockscreen_transport_prev_description">Кнопка предыдущий трек</string>
      <string name="lockscreen_unlock_sim_via_puk">Используйте PUK-код, чтобы разблокировать SIM-карту</string>
      <string name="login_website_in_case_forget_password">Посетите http://i.xiaomi.com для сброса пароля</string>
@@ -369,8 +369,8 @@ EEEE"</string>
      <string name="lunar_yue">月</string>
      <string name="lunar_zheng">正</string>
      <string name="memory_clear_nothing_result">Нет памяти для очистки</string>
-     <string name="memory_clear_result">"Очищено: %1$s
-Доступно: %2$s"</string>
+     <string name="memory_clear_result">Очищено: %1$s
+Доступно: %2$s</string>
      <string name="minutes">%d мин.</string>
      <string name="miui_copyright_title">Авторское право</string>
      <string name="miui_device_name">MIUI</string>
@@ -462,13 +462,13 @@ EEEE"</string>
      <string name="sync_data_contact">контакты</string>
      <string name="sync_data_loading">Получение информации с сервера</string>
      <string name="sync_data_merge_warning_cancel">Отмена</string>
-     <string name="sync_data_merge_warning_desc">Локальные данные \"%s\" будут объединены с облачными данными, будьте внимательны!</string>
+     <string name="sync_data_merge_warning_desc">Локальные данные "%s" будут объединены с облачными данными, будьте внимательны!</string>
      <string name="sync_data_merge_warning_ok">Объединить</string>
      <string name="sync_data_merge_warning_title">Предупреждение</string>
-     <string name="sync_data_mms">SMS</string>
+     <string name="sync_data_mms">сообщения</string>
      <string name="sync_data_notes">заметки</string>
      <string name="sync_data_recover_warning_cancel">Отмена</string>
-     <string name="sync_data_recover_warning_desc">Данные \"%s\" будут восстановлены из облачного сервиса, будьте внимательны!</string>
+     <string name="sync_data_recover_warning_desc">Данные "%s" будут восстановлены из облачного сервиса, будьте внимательны!</string>
      <string name="sync_data_recover_warning_ok">Восстановить</string>
      <string name="sync_data_recover_warning_title">Предупреждение</string>
      <string name="sync_one_time_sync">Нажмите для синхронизации (%1$s)</string>
@@ -485,8 +485,8 @@ EEEE"</string>
      <string name="the_rains" />
      <string name="the_spring_festival" />
      <string name="toast_lockscreen_glogin_empty_password">Введите пароль</string>
-     <string name="today">"Сегодня "</string>
-     <string name="tomorrow">"Завтра "</string>
+     <string name="today">Сегодня </string>
+     <string name="tomorrow">Завтра </string>
      <string name="tw_childrens_day" />
      <string name="tw_youth_day" />
      <string name="united_nations_day" />
@@ -498,10 +498,10 @@ EEEE"</string>
      <string name="unlockscreen_recharge_completed">Зарядка завершена</string>
      <string name="unlockscreen_recharging_message">Идет зарядка - %d%%</string>
      <string name="user_agreement1">Вы будете использовать системы и интернет-услуги, предоставляемые Xiaomi. Пожалуйста, прочитайте</string>
-     <string name="user_agreement2">" Пользовательское соглашение "</string>
-     <string name="user_agreement3">" и "</string>
+     <string name="user_agreement2"> Пользовательское соглашение </string>
+     <string name="user_agreement3"> и </string>
      <string name="user_agreement4">Политику конфиденциальности</string>
-     <string name="user_agreement5">, Нажимая ОК, Вы соглашаетесь с вышеуказанным. Нажмите Отмена для выхода.</string>
+     <string name="user_agreement5">, Нажимая ОК, Вы соглашаетесь с вышеуказанным. Нажмите отмена для выхода.</string>
      <string name="v5_date_picker_label_day" />
      <string name="v5_date_picker_label_month" />
      <string name="v5_date_picker_label_year" />
@@ -521,7 +521,7 @@ EEEE"</string>
      <string name="volume_icon_description_notification">Уведомления</string>
      <string name="volume_icon_description_ringer">Рингтон</string>
      <string name="volume_ring_description">Рингтон и уведомления</string>
-     <string name="wake_alarm_message">Будильник сработает в %s</string>
+     <string name="wake_alarm_message">Установлен будильник на %s</string>
      <string name="white_dews" />
      <string name="winter_begins">Зима</string>
      <string name="winter_solstice" />
@@ -530,5 +530,5 @@ EEEE"</string>
      <string name="yellow_page_sms_send_failed">Ошибка отправки сообщения!</string>
      <string name="yellow_page_sms_sending">Отправка…</string>
      <string name="yellow_page_unable_send_sms">Не удалось отправить сообщение!</string>
-     <string name="yesterday">"Вчера "</string>
+     <string name="yesterday">Вчера </string>
 </resources>
