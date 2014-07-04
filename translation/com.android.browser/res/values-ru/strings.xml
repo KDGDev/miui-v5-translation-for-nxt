@@ -153,7 +153,7 @@
      <string name="delete_bookmark">Из закладок</string>
      <string name="delete_bookmark_warning">Удалить закладку "%s"?</string>
      <string name="delete_folder">Удалить папку</string>
-     <string name="delete_multi_bookmarks_alert_title">Вы уверены, что хотите удалить эти закладки (%1$s)?</string>
+     <string name="delete_multi_bookmarks_alert_title">Удалить эти закладки (%1$s)?</string>
      <string name="dialog_geolocation_reject">Отклонить</string>
      <string name="dialog_geolocation_share">Принять</string>
      <string name="disable_autofill">Отключить автозаполнение</string>
@@ -214,11 +214,11 @@
      <string name="geolocation_permissions_prompt_message">%s запрашивает данные о вашем местоположении</string>
      <string name="geolocation_permissions_prompt_remember">Запомнить настройки</string>
      <string name="geolocation_permissions_prompt_share">Разрешить</string>
-     <string name="geolocation_permissions_prompt_toast_allowed">У этого сайта есть доступ к данным о вашем местоположении. Чтобы запретить его, выберите "Настройки -> Расширенные -> Настройки веб-сайтов".</string>
-     <string name="geolocation_permissions_prompt_toast_disallowed">У этого сайта нет доступа к данным о вашем местоположении. Чтобы предоставить его, выберите "Настройки -> Расширенные -> Настройки веб-сайтов".</string>
+     <string name="geolocation_permissions_prompt_toast_allowed">У этого сайта есть доступ к данным о вашем местоположении. Чтобы запретить его, выберите настройки -> расширенные -> настройки веб-сайтов.</string>
+     <string name="geolocation_permissions_prompt_toast_disallowed">У этого сайта нет доступа к данным о вашем местоположении. Чтобы предоставить его, выберите настройки -> расширенные -> настройки веб-сайтов.</string>
      <string name="geolocation_settings_page_dialog_cancel_button">Отмена</string>
      <string name="geolocation_settings_page_dialog_message">Закрыть этому сайту доступ к данным о вашем местоположении?</string>
-     <string name="geolocation_settings_page_dialog_ok_button">ОК</string>
+     <string name="geolocation_settings_page_dialog_ok_button">OK</string>
      <string name="geolocation_settings_page_summary_allowed">Этот сайт сейчас имеет доступ к вашему местоположению</string>
      <string name="geolocation_settings_page_summary_not_allowed">У этого сайта сейчас нет доступа к данным о вашем местоположении</string>
      <string name="geolocation_settings_page_title">Очистить геоданные</string>
@@ -229,13 +229,13 @@
      <string name="history_saved_webpage">Сохраненные страницы</string>
      <string name="history_track">История</string>
      <string name="homepage_set">Главная страница установлена</string>
-     <string name="in_incognito">В режиме "Инкогнито" история не сохраняется</string>
+     <string name="in_incognito">В режиме инкогнито история не сохраняется</string>
      <string name="is_first_history_item">Первая страница</string>
      <string name="is_first_tab">На первой вкладке</string>
      <string name="is_last_history_item">Последняя страница</string>
      <string name="is_last_tab">На последней вкладке</string>
-     <string name="is_page_bottom">Достигнут низ страницы</string>
-     <string name="is_page_top">Достигнут верх страницы</string>
+     <string name="is_page_bottom">Конец страницы</string>
+     <string name="is_page_top">Начало страницы</string>
      <string name="js_disable_confirm_message">Отключение JavaScript может привести к неправильному отображению некоторых сайтов. Продолжить?</string>
      <string name="js_disable_confirm_title">Отключение JavaScript</string>
      <string name="js_engine_flags">Установить флаги JS</string>
@@ -302,7 +302,7 @@
      <string name="new_tab">Новая вкладка</string>
      <string name="not_remind_again">Больше не напоминать</string>
      <string name="notif_install_successful">Загрузка завершена</string>
-     <string name="ok">ОК</string>
+     <string name="ok">OK</string>
      <string name="open_all_bookmarks">Открыть все</string>
      <string name="open_all_in_new_window">Открыть все в новых вкладках</string>
      <string name="open_bookmark">Открыть</string>
@@ -411,7 +411,7 @@
      <string name="pref_link_prefetch_summary">
 разрешать браузеру предварительно загружать связанные веб-страницы в фоновом режиме</string>
      <string name="pref_link_prefetch_title">Загрузка веб-страниц</string>
-     <string name="pref_link_prefetch_value_never_summary">Запрещать браузеру предварительно загружать веб-страницы в фоновом режиме.</string>
+     <string name="pref_link_prefetch_value_never_summary">Запрещать браузеру предварительно загружать веб-страницы в фоновом режиме</string>
      <string name="pref_min_font_size">Минимальный размер шрифта</string>
      <string name="pref_privacy_clear_cache">Очистить кэш</string>
      <string name="pref_privacy_clear_cache_dlg">Удалить контент и базы данных, сохраненные локально?</string>
@@ -424,11 +424,11 @@
      <string name="pref_privacy_clear_form_data_summary">Удалить все сохраненные данные форм</string>
      <string name="pref_privacy_clear_geolocation_access">Очистить геоданные</string>
      <string name="pref_privacy_clear_geolocation_access_dlg">Очистить геоданные?</string>
-     <string name="pref_privacy_clear_geolocation_access_summary">Очистить список сайтов, имеющих доступ к данным о вашем местоположении.</string>
+     <string name="pref_privacy_clear_geolocation_access_summary">Очистить список сайтов, имеющих доступ к данным о вашем местоположении</string>
      <string name="pref_privacy_clear_history">Очистить историю</string>
      <string name="pref_privacy_clear_history_by_group_dlg">Очистить историю?</string>
      <string name="pref_privacy_clear_history_dlg">Очистить историю браузера?</string>
-     <string name="pref_privacy_clear_history_summary">Очистить список посещенных в Интернете страниц</string>
+     <string name="pref_privacy_clear_history_summary">Очистить список посещенных в интернете страниц</string>
      <string name="pref_privacy_clear_passwords">Очистить пароли</string>
      <string name="pref_privacy_clear_passwords_dlg">Удалить все сохраненные пароли?</string>
      <string name="pref_privacy_clear_passwords_summary">Удалить все сохраненные пароли</string>
@@ -506,7 +506,7 @@
      <string name="return_to_homepage">Домашняя страница</string>
      <string name="same_bookmarks_warning">Эта закладка уже существует</string>
      <string name="same_folder_name_warning">Эта папка уже существует</string>
-     <string name="save">ОК</string>
+     <string name="save">OK</string>
      <string name="save_bookmark">В закладки</string>
      <string name="save_dialog_title">Сохранение файла</string>
      <string name="save_file_already_exist_alert_message">Файл уже существует. 
@@ -567,7 +567,7 @@
      <string name="tab_history">История</string>
      <string name="tab_most_visited">Часто посещаемые</string>
      <string name="tab_opened_background">Вкладка открыта в фоне</string>
-     <string name="tab_opened_background_in_incognito">Владка открыта в режиме "Инкогнито"</string>
+     <string name="tab_opened_background_in_incognito">Владка открыта в режиме инкогнито</string>
      <string name="tab_quicklinks">Ссылки</string>
      <string name="tab_snapshots">Сохраненные страницы</string>
      <string name="tab_yellowpage">Категории</string>
@@ -606,10 +606,10 @@
      <string name="website_settings_clear_all">Удалить все</string>
      <string name="website_settings_clear_all_dialog_cancel_button">Отмена</string>
      <string name="website_settings_clear_all_dialog_message">Удалить все данные веб-сайта и разрешения на доступ к сведениям о вашем местоположении?</string>
-     <string name="website_settings_clear_all_dialog_ok_button">ОК</string>
+     <string name="website_settings_clear_all_dialog_ok_button">OK</string>
      <string name="webstorage_clear_data_dialog_cancel_button">Отмена</string>
      <string name="webstorage_clear_data_dialog_message">Удалить все данные, сохраненные этим веб-сайтом?</string>
-     <string name="webstorage_clear_data_dialog_ok_button">ОК</string>
+     <string name="webstorage_clear_data_dialog_ok_button">OK</string>
      <string name="webstorage_clear_data_title">Удалить сохраненные данные</string>
      <string name="webstorage_origin_summary_mb_stored">Объем занятой памяти телефона (МБ)</string>
      <string name="webstorage_outofspace_notification_text">Нажмите, чтобы освободить место</string>
