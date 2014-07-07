@@ -11,7 +11,7 @@
      <string name="alarm_ascending_mode_title">Нарастание громкости</string>
      <string name="alarm_button_description">Будильник</string>
      <string name="alarm_disabled">Выключен</string>
-     <string name="alarm_in_silent_mode_title">В режиме \"Без звука\"</string>
+     <string name="alarm_in_silent_mode_title">В режиме без звука</string>
      <string name="alarm_klaxon_service_desc">Служба воспроизведения сигналов в Часах</string>
      <string name="alarm_label_hint">Введите описание будильника</string>
      <string name="alarm_list_title">Будильник</string>
@@ -39,7 +39,7 @@
      <string name="control_set_alarm">Установить будильник</string>
      <string name="control_set_alarm_with_existing">Будильник установлен на %s</string>
      <string name="day">1 день</string>
-     <string name="day_concat">", "</string>
+     <string name="day_concat">, </string>
      <string name="days">%s дн.</string>
      <string name="default_alarm_alert">Мелодия и тема</string>
      <string name="default_alarm_title">Стандартная мелодия</string>

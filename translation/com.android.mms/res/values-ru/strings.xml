@@ -40,7 +40,7 @@
      <string name="batch_delete_confirm_dialog_message">Удалить выбранные сообщения (%1$s)?</string>
      <string name="batch_deleting_message_progress_message">Удалить выбранные сообщения</string>
      <string name="batch_deleting_progress_message">Удаление…</string>
-     <string name="bcc_label">"Скрытая копия: "</string>
+     <string name="bcc_label">Скрытая копия: </string>
      <string name="bookmark">Избранные</string>
      <string name="bookmark_confirm_delete_message">Убрать сообщение из списка избранных?</string>
      <string name="bookmark_empty">Нет сообщений</string>
@@ -59,13 +59,13 @@
      <string name="compressing">Картинка слишком большая. Выполняется сжатие…</string>
      <string name="confirm">Подтвердить</string>
      <string name="confirm_add_blacklist_dialog_dspt">Добавить номер в черный список?</string>
-     <string name="confirm_delete_SIM_message">Вы уверены, что хотите удалить это сообщение с SIM-карты?</string>
-     <string name="confirm_delete_all_SIM_messages">Вы уверены, что хотите удалить все сообщения с SIM-карты?</string>
-     <string name="confirm_delete_all_conversations">Вы уверены, что хотите удалить все переписки?</string>
-     <string name="confirm_delete_conversation">Вы уверены, что хотите удалить данную переписку?</string>
-     <string name="confirm_delete_group_message">Вы уверены, что хотите удалить выбранные сообщения?</string>
-     <string name="confirm_delete_locked_message">Вы уверены, что хотите удалить это закрепленное сообщение?</string>
-     <string name="confirm_delete_message">Вы уверены, что хотите удалить выбранное сообщение?</string>
+     <string name="confirm_delete_SIM_message">Удалить это сообщение с SIM-карты?</string>
+     <string name="confirm_delete_all_SIM_messages">Удалить все сообщения с SIM-карты?</string>
+     <string name="confirm_delete_all_conversations">Удалить все переписки?</string>
+     <string name="confirm_delete_conversation">Удалить данную переписку?</string>
+     <string name="confirm_delete_group_message">Удалить выбранные сообщения?</string>
+     <string name="confirm_delete_locked_message">Удалить это закрепленное сообщение?</string>
+     <string name="confirm_delete_message">Удалить выбранное сообщение?</string>
      <string name="confirm_dialog_locked_title">Удалить закрепленное сообщение?</string>
      <string name="confirm_dialog_title">Удаление</string>
      <string name="confirm_dlg__msg">Уведомление: CMCC бесплатная пост-служба не будет работать, если Вы отмените услугу. Продолжить?</string>
@@ -113,7 +113,7 @@
      <string name="discard_message">Отмена</string>
      <string name="discard_message_reason">Сообщение будет удалено, так как не указан ни один получатель</string>
      <string name="discard_slideshow">Отменить слайд-шоу</string>
-     <string name="dl_failure_notification">Не удалось загрузить сообщение \"%1$s\" от пользователя %2$s</string>
+     <string name="dl_failure_notification">Не удалось загрузить сообщение "%1$s" от пользователя %2$s</string>
      <string name="done">Готово</string>
      <string name="download">Загрузить</string>
      <string name="download_later">Не удалось загрузить сообщения. Повторите попытку позже.</string>
@@ -131,7 +131,7 @@
      <string name="enable_password_protect">Защита графич. ключом</string>
      <string name="enable_visible_pattern_title">Видимый ключ</string>
      <string name="enter_edit_mode">Удалить</string>
-     <string name="error_code_label">"Код ошибки: "</string>
+     <string name="error_code_label">Код ошибки: </string>
      <string name="error_state">Данные были изменены</string>
      <string name="error_state_text">Переписки не соответствуют получателям. Сделайте снимок экрана и отправьте сообщение об ошибке через веб-сайт http://go/droidanizer</string>
      <string name="error_timed_msg">Невозможно запланировать время ранее текущего</string>
@@ -150,12 +150,12 @@
      <string name="festival_sms_loading">Загрузка…</string>
      <string name="file_share_message_description">Я хочу поделиться с Вами файлами</string>
      <string name="forward_from">От:</string>
-     <string name="forward_prefix">"От: "</string>
+     <string name="forward_prefix">От: </string>
      <string name="found_old_messages">Найдено сообщений от предыдущего аккаунта: %1$s. Вы хотите загрузить их в текущий аккаунт %2$s?</string>
      <string name="found_old_messages_title">Загрузка сообщений</string>
      <string name="found_wild_messages">Загрузить облачные сообщения с других ваших SIM-карт?</string>
      <string name="found_wild_messages_title">Скачка сообщений</string>
-     <string name="from_label">"От: "</string>
+     <string name="from_label">От: </string>
      <string name="group_message">Групповое сообщение</string>
      <string name="group_message_failed_title">Не удалось отправить %d. Повторить попытку?</string>
      <string name="group_resend_message">Переслать(%d)</string>
@@ -172,7 +172,7 @@
      <string name="invalid_private_contact">Неверный контакт</string>
      <string name="invalid_recipient_message">Убедитесь, что все получатели указаны правильно</string>
      <string name="kilobyte">КБ</string>
-     <string name="layout_selector_title">"Макет слайд-шоу "</string>
+     <string name="layout_selector_title">Макет слайд-шоу </string>
      <string name="loading_all_messages">Загрузка сообщений…</string>
      <string name="loading_conversations">Загрузка переписок…</string>
      <string name="loading_mms">Загрузка MMS…</string>
@@ -188,23 +188,23 @@
      <string name="menu_preferences">Настройки</string>
      <string name="menu_unlock">Из избранного</string>
      <string name="menu_view_contact">Просмотреть контакт</string>
-     <string name="message_class_label">"Класс сообщений: "</string>
+     <string name="message_class_label">Класс сообщений: </string>
      <string name="message_details_title">Сведения о сообщении</string>
      <string name="message_download_failed_title">Не удалось загрузить сообщение</string>
      <string name="message_failed">Ошибка отправки</string>
      <string name="message_failed_body">Нажмите, чтобы просмотреть сообщение и повторить попытку</string>
      <string name="message_pending">Отправка</string>
-     <string name="message_queued">Сервис недоступен. Мы попробуем отправить сообщение позже</string>
+     <string name="message_queued">Сервис недоступен. Мы попробуем отправить сообщение позже.</string>
      <string name="message_readed">Прочитано</string>
      <string name="message_received">Доставлено</string>
      <string name="message_rejected">Отклонено</string>
      <string name="message_saved_as_draft">Черновик сообщения сохранен</string>
      <string name="message_send_failed_title">Сообщение не отправлено</string>
      <string name="message_send_read_report">Будет отправлен отчет о прочтении</string>
-     <string name="message_size_label">"Размер сообщения: "</string>
+     <string name="message_size_label">Размер сообщения: </string>
      <string name="message_too_big_for_audio">Сообщение слишком велико, чтобы прикрепить аудио</string>
      <string name="message_too_big_for_video">Сообщение слишком велико, чтобы приложить видео</string>
-     <string name="message_type_label">"Тип: "</string>
+     <string name="message_type_label">Тип: </string>
      <string name="messagelist_sender_self">Я</string>
      <string name="move_down">Переместить вниз</string>
      <string name="move_up">Переместить вверх</string>
@@ -232,8 +232,8 @@
      <string name="mx_auto_resend_sms_summary">Отправлять сообщения как SMS, когда облачные сообщения не доступны</string>
      <string name="mx_btn_enable">Включить</string>
      <string name="mx_btn_enable_now">Включить</string>
-     <string name="mx_count_dspt">"Облачных сообщений отправлено: 
-SMS (%1$d), MMS (%2$d)"</string>
+     <string name="mx_count_dspt">Облачных сообщений отправлено: 
+SMS (%1$d), MMS (%2$d)</string>
      <string name="mx_current_status">Статус: в сети</string>
      <string name="mx_dspt">Обмениваться облачными сообщениями могут только пользователи MIUI. При отсутствии интернет соединения сообщения будут отправлены с помощью мобильного оператора.</string>
      <string name="mx_enable">Облачные сообщения</string>
@@ -289,8 +289,8 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="pref_summary_mms_auto_retrieval">Автоматически загружать MMS-сообщения</string>
      <string name="pref_summary_mms_read_reports">Запрашивать отчет о прочтении для всех отправляемых сообщений</string>
      <string name="pref_summary_mms_retrieval_during_roaming">Автоматически загружать MMS-сообщения в роуминге</string>
-     <string name="pref_summary_mx_feedback">"Помогите сделать MIUI лучше!
-Сообщайте нам об ошибках и отправляйте свои отзывы."</string>
+     <string name="pref_summary_mx_feedback">Помогите сделать MIUI лучше!
+Сообщайте нам об ошибках и отправляйте свои отзывы.</string>
      <string name="pref_summary_new_message_popup">Показывать всплывающее окно при получении нового сообщения</string>
      <string name="pref_summary_new_message_popup_when_secure">Всплывающие уведомления скрыты в режиме гостя</string>
      <string name="pref_summary_notification_body_enabled">Предварительный просмотр сообщения на экране блокировки и в строке состояния</string>
@@ -318,7 +318,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="pref_title_ringtone_repeat">Количество напоминаний</string>
      <string name="pref_title_show_recent_contacts">Показать недавние контакты</string>
      <string name="pref_title_sms_delete">Максимальное количество SMS</string>
-     <string name="pref_title_system_mms_priority">Приоритет для \"Сообщения\"</string>
+     <string name="pref_title_system_mms_priority">Приоритет для сообщения</string>
      <string name="pref_title_vcard">Отправить через vCard</string>
      <string name="pref_title_wake_up_screen">Включать экран</string>
      <string name="preferences_title">Настройки</string>
@@ -326,7 +326,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="preview">Просмотреть</string>
      <string name="preview_slideshow">Предварительный просмотр</string>
      <string name="priority_high">Высокий</string>
-     <string name="priority_label">"Приоритет: "</string>
+     <string name="priority_label">Приоритет: </string>
      <string name="priority_low">Низкий</string>
      <string name="priority_normal">Обычный</string>
      <string name="privacy_mode_hint">Не удается отправить сообщение в режиме защиты</string>
@@ -338,8 +338,8 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="prvate_contact">Приватные контакты</string>
      <string name="quick_reply">Ответить</string>
      <string name="rate_limit_surpassed">Подтвердить</string>
-     <string name="received_label">"Получено: "</string>
-     <string name="recipient_label">"Получатель: "</string>
+     <string name="received_label">Получено: </string>
+     <string name="recipient_label">Получатель: </string>
      <string name="refill_now">Пополнить</string>
      <string name="refresh">Обновить</string>
      <string name="refresh_failed">Обновление не выполнено</string>
@@ -362,7 +362,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="save_ringtone">Сохранить как мелодию звонка</string>
      <string name="save_to_sim">Сохранить на SIM-карту</string>
      <string name="save_to_sim_failed">Не удалось сохранить</string>
-     <string name="saved_label">"Сохранено: "</string>
+     <string name="saved_label">Сохранено: </string>
      <string name="saved_ringtone">Рингтон сохранен</string>
      <string name="saved_ringtone_fail">Рингтон не сохранен</string>
      <string name="saved_to_sim">Сохранено</string>
@@ -394,7 +394,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="send_to">Для:</string>
      <string name="send_to_count">Успешно отправлено для %1$s</string>
      <string name="send_to_index_contact">Отправлено %1$s из %2$s</string>
-     <string name="sent_label">"Отправлено: "</string>
+     <string name="sent_label">Отправлено: </string>
      <string name="service_message_not_found">Срок действия сообщения истек или оно не доступно</string>
      <string name="service_network_problem">Не удалось отправить сообщение из-за ошибки сети</string>
      <string name="service_not_activated">Услуга не активирована в сети</string>
@@ -426,7 +426,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="sp_mark_as_read_progress">Обработка, подождите…</string>
      <string name="sp_mark_as_read_title">Отметка сообщений прочитанными</string>
      <string name="status_failed">Сбой</string>
-     <string name="status_label">"Статус: "</string>
+     <string name="status_label">Статус: </string>
      <string name="status_pending">Ожидает</string>
      <string name="status_read">Прочитанные</string>
      <string name="status_received">Полученные</string>
@@ -440,7 +440,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="storage_limits_setting">Установить ограничения</string>
      <string name="storage_limits_setting_dismiss">Нет ограничений</string>
      <string name="subject_hint">Тема</string>
-     <string name="subject_label">"Тема: "</string>
+     <string name="subject_label">Тема: </string>
      <string name="text_in_popup_saved_to_clipboard">Редактируемый текст сохранен в буфер обмена</string>
      <string name="text_message">Текстовое сообщение</string>
      <string name="timed_message_expired_title">%d запланированных сообщений не отправлено</string>
@@ -450,9 +450,9 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="title_collapse_sp_messages">Сервисные сообщения</string>
      <string name="title_date_type">Дата</string>
      <string name="title_timed_message_dialog">Время отправки сообщения</string>
-     <string name="to_address_label">"Кому: "</string>
+     <string name="to_address_label">Кому: </string>
      <string name="to_count">Всего: %d</string>
-     <string name="to_label">"Кому: "</string>
+     <string name="to_label">Кому: </string>
      <string name="to_send_wrapper">Сообщение запланировано на: %s</string>
      <string name="toast_description_required">Введите текст и повторите</string>
      <string name="toast_feedback_finish">Ваше сообщение будет отправлено автоматически при подключении к Wi-Fi сети</string>
@@ -469,8 +469,8 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="type_to_compose_text_or_leave_blank">Введите сообщение или оставьте поле пустым</string>
      <string name="type_vcard">vCard</string>
      <string name="type_video">Видеозапись</string>
-     <string name="undelivered_msg_dialog_body">"Не удалось отправить сообщение.
-Попыток: %s."</string>
+     <string name="undelivered_msg_dialog_body">Не удалось отправить сообщение.
+Попыток: %s.</string>
      <string name="undelivered_msg_dialog_title">Недоставленное сообщение</string>
      <string name="undelivered_sms_dialog_body">Не удалось отправить сообщение</string>
      <string name="unknown_num">Неизвестный номер</string>
@@ -482,6 +482,6 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="view">Просмотр</string>
      <string name="view_bookmark">Открыть в переписке</string>
      <string name="view_message_details">Подробности</string>
-     <string name="wap_push_title">"[Push-сообщение] "</string>
-     <string name="yes">ОК</string>
+     <string name="wap_push_title">[Push-сообщение] </string>
+     <string name="yes">OK</string>
 </resources>
