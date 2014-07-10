@@ -2125,13 +2125,13 @@
      <string name="music_app_name">Музыка</string>
      <string name="music_command_summary_format">Вы можете сказать %1$s и %2$s для управления плеером.</string>
      <string name="music_plus_summary">Улучшение звука для наушников</string>
-     <string name="music_plus_title">Режим \"BesAudEnh\"</string>
+     <string name="music_plus_title">Режим BesAudEnh</string>
      <string name="musicfx_title">Звуковые эффекты</string>
      <string name="mvno_match_data">Значение MVNO</string>
      <string name="mvno_type">Тип MVNO</string>
      <string name="nearby_wifi">Доступные сети</string>
      <string name="need_check">Можно оптимизировать…</string>
-     <string name="network_assistant">Монитор</string>
+     <string name="network_assistant">Трафик</string>
      <string name="network_detail">Свойства сети %s</string>
      <string name="network_settings_title">Мобильная сеть</string>
      <string name="network_state_label">"Состояние Сети: "</string>
@@ -2148,8 +2148,8 @@
      <string name="nfc_payment_learn_more">Подробнее</string>
      <string name="nfc_payment_menu_item_add_service">Найти приложения</string>
      <string name="nfc_payment_no_apps">Платите простым касанием устройства</string>
-     <string name="nfc_payment_set_default">Всегда использовать для NFC-платежей приложение \"%1$s\"?</string>
-     <string name="nfc_payment_set_default_instead_of">Всегда использовать для NFC-платежей приложение \"%1$s\", а не \"%2$s\"?</string>
+     <string name="nfc_payment_set_default">Всегда использовать для NFC-платежей приложение "%1$s"?</string>
+     <string name="nfc_payment_set_default_instead_of">Всегда использовать для NFC-платежей приложение "%1$s", а не "%2$s"?</string>
      <string name="nfc_payment_set_default_label">Сохранить настройку?</string>
      <string name="nfc_payment_settings_title">Оплата через NFC</string>
      <string name="nfc_quick_toggle_summary">Разрешить обмен данными при совмещении телефона с другим устройством</string>
@@ -2166,8 +2166,8 @@
      <string name="no_notification_listeners">Нет установленных приложений для прослушивания уведомлений</string>
      <string name="no_running_services">Ничего не запущено.</string>
      <string name="no_services">Неактивен</string>
-     <string name="no_sim_info">""Не удалось получить доступ к SIM-карте.
-Использование функций невозможно."</string>
+     <string name="no_sim_info">Не удалось получить доступ к SIM-карте.
+Использование функций невозможно.</string>
      <string name="noise_suppression">Подавление шума</string>
      <string name="normal_date_format">%s (по умолчанию)</string>
      <string name="not_installed">Не установлено</string>
@@ -2190,7 +2190,7 @@
      <string name="nsd_quick_toggle_title">Обнаружение сетевых служб</string>
      <string name="number_add_hint">Введите номер</string>
      <string name="oem_radio_info_label">OEM Информация/Настройки</string>
-     <string name="ok">ОК</string>
+     <string name="ok">OK</string>
      <string name="oldman_mode_confirm_title">Включить расширенный режим</string>
      <string name="oldman_mode_confirm_will_normal_mode_text">Выключить расширенный режим?</string>
      <string name="oldman_mode_confirm_will_oldman_mode_text">Включить расширенный режим?</string>

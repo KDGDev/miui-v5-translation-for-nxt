@@ -910,6 +910,7 @@ Direct connected"</string>
      <string name="pref_camera_contrast_entry_low">Низкий</string>
      <string name="pref_camera_contrast_entry_middle">Средний (по умолчанию)</string>
      <string name="pref_camera_contrast_title">Контраст</string>
+	 <string name="pref_camera_countdown_title">Обратный отсчет</string>
      <string name="pref_camera_current_k_value">Текущее значение</string>
      <string name="pref_camera_default_suffix">(по умолчанию)</string>
      <string name="pref_camera_denoise_title">Устранение шумов</string>
@@ -965,8 +966,6 @@ Direct connected"</string>
      <string name="pref_camera_long_pressing_burst_shooting_entry_off">Выкл.</string>
      <string name="pref_camera_long_pressing_burst_shooting_entry_on">Вкл.</string>
      <string name="pref_camera_long_pressing_burst_shooting_title">Серийная съемка</string>
-     <string name="pref_camera_movie_solid_entry_off">Выкл.</string>
-     <string name="pref_camera_movie_solid_entry_on">Вкл.</string>
      <string name="pref_camera_movie_solid_title">Стабилизация изображения</string>
      <string name="pref_camera_multilevel_entry_high">Высокая</string>
      <string name="pref_camera_multilevel_entry_higher">Отличная</string>
@@ -1393,6 +1392,7 @@ Direct connected"</string>
      <string name="simple_mode_button_text_audio_capture">Выйти</string>
      <string name="simple_mode_button_text_chroma_flash">Выйти</string>
      <string name="simple_mode_button_text_color_effect">Выйти</string>
+	 <string name="simple_mode_button_text_countdown">Выйти</string>
      <string name="simple_mode_button_text_face_beauty">Выйти</string>
      <string name="simple_mode_button_text_fast_video">Выйти</string>
      <string name="simple_mode_button_text_hand_night">Выйти</string>
