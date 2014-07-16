@@ -11,7 +11,7 @@
      <string name="add_review">Добавить отзыв</string>
      <string name="addon" />
      <string name="addon_category">Специальное</string>
-     <string name="addon_install_complete_disc">您已完成%s专区插件的安装，您可直接启动进入专区，或从“我的视频”里进入专区</string>
+     <string name="addon_install_complete_disc">Нажмите, чтобы установить %s</string>
      <string name="addon_update_desc">Найдена новая версия. Обновить?</string>
      <string name="adjust_position_next_media_notice">Далее</string>
      <string name="adjust_position_prev_media_notice">Назад</string>
@@ -277,6 +277,8 @@
      <string name="pps">PPS</string>
      <string name="pptv">PPTV</string>
 	 <string name="prex_playcount">Смотрелось:</string>
+	 <string name="priority_storage">Исп. внешнюю SD-карту</string>
+     <string name="priority_storage_summary">Функция вступает в силу при использовании внешней SD-карты</string>
      <string name="publish">Отправить</string>
      <string name="qiyi">iQiyi</string>
      <string name="quarter_bell_alert_button_cancel">Отмена</string>
