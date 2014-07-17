@@ -530,13 +530,12 @@
      </string-array>
      <string-array name="power_dialog_vibration_items">
         <item>Никогда</item>
-        <item>В режиме \"Без звука\"</item>
+        <item>В режиме без звука</item>
         <item>Всегда</item>
      </string-array>
      <string-array name="power_mode_entries">
         <item>Производительный</item>
         <item>Сбалансированный</item>
-        <item>Энергосберегающий</item>
      </string-array>
      <string-array name="preferred_app_entries">
         <item>Рабочий стол</item>
@@ -717,10 +716,6 @@
         <item>Windows(RNDIS)</item>
         <item>Linux/Mac OS(EEM)</item>
      </string-array>
-     <string-array name="usb_tether_type_values">
-        <item>0</item>
-        <item>1</item>
-     </string-array>
      <string-array name="user_content_ratings_entries">
         <item>Высший разум</item>
         <item>Человек</item>
@@ -757,12 +752,6 @@
         <item>Истекло время ожидания, повтор…</item>
         <item>Устройство подключено</item>
      </string-array>
-     <string-array name="wifi_WEP_index">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-     </string-array>
      <string-array name="wifi_WEP_security_type">
         <item>Auto</item>
         <item>WEP ASCII</item>
@@ -781,16 +770,6 @@
         <item>6 пользователей</item>
         <item>7 пользователей</item>
         <item>8 пользователей</item>
-     </string-array>
-     <string-array name="wifi_ap_max_connection_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
      </string-array>
      <string-array name="wifi_ap_security">
         <item>Без шифрования</item>
@@ -832,11 +811,6 @@
         <item>Всегда</item>
         <item>Выключить после 5-ти минут простоя</item>
         <item>Выключить после 10-ти минут простоя</item>
-     </string-array>
-     <string-array name="wifi_hotspot_disable_policy_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
      </string-array>
      <string-array name="wifi_ip_settings">
         <item>Автоматический</item>
