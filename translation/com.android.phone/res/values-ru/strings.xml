@@ -1396,7 +1396,7 @@
      <string name="slide_to_decline">Сдвиньте влево для отмены</string>
      <string name="slide_to_decline_hint">Отклонить</string>
      <string name="slide_to_silence">Сдвиньте влево для включения беззвучного режима</string>
-     <string name="sliding_down_hint_miui">"<font size='20'>Сдвиньте вниз для ответа</font>"</string>
+     <string name="sliding_down_hint_miui"><jsonstring>{"string":"Сдвиньте вниз для ответа","styles":[{"start":0,"name":"font;size=20","end":23}]}</string>
      <string name="sliding_target_hint_miui">Сдвиньте вверх, чтобы отклонить/отправить сообщение</string>
      <string name="sliding_up_hint_miui">Сдвиньте вверх, чтобы отклонить</string>
      <string name="sms_content">Содержание</string>

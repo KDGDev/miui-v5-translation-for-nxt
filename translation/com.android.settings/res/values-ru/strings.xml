@@ -90,15 +90,7 @@
      <string name="accessibility_power_button_ends_call_prerefence_title">Кнопка питания завершает вызов</string>
      <string name="accessibility_power_button_ends_call_title">Кнопка питания завершает вызов</string>
      <string name="accessibility_screen_magnification_enable">Увеличение жесты</string>
-     <string name="accessibility_screen_magnification_summary">Эта функция позволяет увеличивать и уменьшать изображение, трижды нажав на экран.
-
-При увеличенном масштабе можно:
-панорамировать – проведите пальцами по экрану
-изменять масштаб – сведите или разведите пальцы
-
-Чтобы временно увеличить изображение под пальцем, трижды нажмите на экран и удерживайте его. Проведя пальцем, вы можете посмотреть на другие области экрана. Чтобы вернуть экран в прежнее состояние, уберите палец.
-
-Примечание. Тройным нажатием увеличиваются все области, кроме клавиатуры и панели навигации.</string>
+     <string name="accessibility_screen_magnification_summary"><jsonstring>{"string":"Эта функция позволяет увеличивать и уменьшать изображение, трижды нажав на экран.\n\nПри увеличенном масштабе можно:\nпанорамировать \u2013 проведите пальцами по экрану; изменять масштаб \u2013 сведите или разведите пальцы. Чтобы временно увеличить изображение под пальцем, трижды нажмите на экран и удерживайте его. Проведя пальцем, вы можете посмотреть на другие области экрана. Чтобы вернуть экран в прежнее состояние, уберите палец. Примечание. Тройным нажатием увеличиваются все области, кроме клавиатуры и панели навигации.","styles":[{"start":115,"name":"li","end":160},{"start":162,"name":"li","end":209},{"start":115,"name":"ul","end":209}]}</string>
      <string name="accessibility_screen_magnification_title">Жесты для увеличения</string>
      <string name="accessibility_script_injection_allowed">Разрешена</string>
      <string name="accessibility_script_injection_button_allow">Разрешить</string>
@@ -957,10 +949,8 @@
      <string name="data_usage_restrict_background_title">Ограничение фонового режима</string>
      <string name="data_usage_restrict_denied_dialog">Ограничение фонового режима возможно только при лимитировании мобильного трафика</string>
      <string name="data_usage_summary_title">Передача данных</string>
-     <string name="data_usage_sweep_limit">"<font size="21">^1</font> <font size="9">^2</font>
-<font size="12">лимит</font>"</string>
-     <string name="data_usage_sweep_warning">"<font size="21">^1</font> <font size="9">^2</font>
-<font size="12">опасность</font>"</string>
+     <string name="data_usage_sweep_limit"><jsonstring>{"string":"^1 ^2 лимит","styles":[{"start":0,"name":"font;size=21","end":1},{"start":3,"name":"font;size=9","end":4},{"start":6,"name":"font;size=12","end":10}]}</string>
+     <string name="data_usage_sweep_warning"><jsonstring>{"string":"^1 ^2 опасность","styles":[{"start":0,"name":"font;size=21","end":1},{"start":3,"name":"font;size=9","end":4},{"start":6,"name":"font;size=12","end":14}]}</string>
      <string name="data_usage_tab_mobile">Мобильный</string>
      <string name="data_usage_tab_slot">SIM</string>
      <string name="data_usage_tab_wifi">Wi-Fi</string>

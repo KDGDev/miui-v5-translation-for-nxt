@@ -183,7 +183,7 @@
      <string name="callsettings_callwaiting_notsubscribed">Call waiting is not subscribed</string>
      <string name="camera_restrict">Политика безопасности ограничивает использование камеры</string>
      <string name="cancel">Отмена</string>
-     <string name="candidates_style">варианты</string>
+     <string name="candidates_style"><jsonstring>{"string":"варианты","styles":[{"start":0,"name":"u","end":7}]}</string>
      <string name="capability_desc_canRequestEnhancedWebAccessibility">Могут быть установлены сценарии, для повышенния доступности контента.</string>
      <string name="capability_desc_canRequestFilterKeyEvents">Включая личные данные, такие как номера кредитных карт и пароли.</string>
      <string name="capability_desc_canRequestTouchExploration">Элементы, к которым вы прикоснетесь, будут озвучены. Содержимое экрана может быть изучено с помощью жестов.</string>
@@ -643,7 +643,7 @@
      <string name="kg_invalid_puk">Введите корректный PUK-код. Неверные попытки ввода могут заблокировать SIM-карту</string>
      <string name="kg_invalid_sim_pin_hint">Введите PIN-код (4 до 8 цифр)</string>
      <string name="kg_invalid_sim_puk_hint">PUK-код должен содержать не менее 4 символов</string>
-     <string name="kg_login_account_recovery_hint">Забыли имя пользователя или пароль? Посетите google.com/accounts/recovery</string>
+     <string name="kg_login_account_recovery_hint"><jsonstring>{"string":"Забыли логин или пароль? Зайдите на google.com\/accounts\/recovery.","styles":[{"start":36,"name":"b","end":63}]}</string>
      <string name="kg_login_checking_password">Проверка аккаунта…</string>
      <string name="kg_login_instructions">Для разблокировки, введите аккаунт Google.</string>
      <string name="kg_login_invalid_input">Неверное имя пользователя или пароль</string>
@@ -707,8 +707,7 @@
      <string name="lockscreen_failed_attempts_now_wiping">Вы %d раз не смогли разблокировать телефон. Будут восстановлены заводские настройки.</string>
      <string name="lockscreen_fmapp_name">FM-радио</string>
      <string name="lockscreen_forgot_pattern_button_text">Забыли ключ?</string>
-     <string name="lockscreen_glogin_account_recovery_hint">Забыли имя пользователя или пароль?
-Перейдите на страницу google.com/accounts/recovery</string>
+     <string name="lockscreen_glogin_account_recovery_hint"><jsonstring>{"string":"Забыли имя пользователя или пароль?\nПерейдите на страницу google.com\/accounts\/recovery.","styles":[{"start":58,"name":"b","end":85}]}</string>
      <string name="lockscreen_glogin_checking_password">Проверка…</string>
      <string name="lockscreen_glogin_forgot_pattern">Снятие блокировки аккаунта</string>
      <string name="lockscreen_glogin_instructions">Чтобы разблокировать устройство, войдите в свой аккаунт Google</string>
@@ -1530,7 +1529,7 @@
      <string name="perms_hide">
 <b>Скрыть</b>
 </string>
-     <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff33b5e5">НОВОЕ: </font></string>
+     <string name="perms_new_perm_prefix"><jsonstring>{"string":"НОВОЕ: ","styles":[{"start":0,"name":"font;size=12;fgcolor=#ff33b5e5","end":6}]}</string>
      <string name="perms_show_all">
 <b>Показать все</b>
 </string>
@@ -1826,13 +1825,13 @@
      <string name="sms_control_no">Запретить</string>
      <string name="sms_control_title">Отправка SMS-сообщений</string>
      <string name="sms_control_yes">Разрешить</string>
-     <string name="sms_premium_short_code_details"><font fgcolor="#ffffb060">Это приведет к расходам на вашем счету</font></string>
+     <string name="sms_premium_short_code_details"><jsonstring>{"string":" С вашего мобильного счета будут списаны средства ","styles":[{"start":1,"name":"font;fgcolor=#ffffb060","end":48}]}</string>
      <string name="sms_short_code_confirm_allow">Отправить</string>
      <string name="sms_short_code_confirm_always_allow">Разрешить всегда</string>
      <string name="sms_short_code_confirm_deny">Отмена</string>
      <string name="sms_short_code_confirm_message"></string>
      <string name="sms_short_code_confirm_never_allow">Запретить всегда</string>
-     <string name="sms_short_code_details">Это <font fgcolor="#ffffb060">может привести к расходам</font> на вашем счету</string>
+     <string name="sms_short_code_details"><jsonstring>{"string":"С вашего мобильного счета могут быть списаны средства","styles":[{"start":26,"name":"font;fgcolor=#ffffb060","end":52}]}</string>
      <string name="sms_short_code_remember_choice">Запомнить мой выбор</string>
      <string name="sms_short_code_remember_undo_instruction">Вы сможете изменить это позже в Настройки и Приложения</string>
      <string name="smv_application">Приложение "%1$s" (процесс: %2$s) нарушило собственную политику StrictMode</string>
