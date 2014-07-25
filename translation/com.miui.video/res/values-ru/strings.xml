@@ -29,7 +29,7 @@
      <string name="app_recommendation">Рекомендуем</string>
      <string name="area_colon">Страна: </string>
      <string name="authenticated_failed">Ошибка аутентификации</string>
-     <string name="authenticating"><CDATA>Идентификация </CDATA></string>
+     <string name="authenticating"><jsonstring>{"string":"Идентификация ","styles":[{"start":0,"name":"CDATA","end":13}]}</string>
      <string name="authenticating_manually">Ошибка аутентификации</string>
      <string name="auto_play">Автовоспроизведение</string>
      <string name="auto_play_summary">Воспроизводить видео после буферизации или завершения загрузки</string>
@@ -161,9 +161,9 @@
      <string name="key_back_down_toast">Нажмите еще раз, чтобы выйти</string>
      <string name="lekan">Lekan</string>
      <string name="letv">Letv</string>
-     <string name="live_loading_symbol">Загрузка </string>
+     <string name="live_loading_symbol"><jsonstring>{"string":"Загрузка ","styles":[{"start":0,"name":"CDATA","end":8}]}</string>
      <string name="live_loading_to_be_play">Загрузка…</string>
-     <string name="live_pending_symbol">Буферизация </string>
+     <string name="live_pending_symbol"><jsonstring>{"string":"Буферизация ","styles":[{"start":0,"name":"CDATA","end":11}]}</string>
      <string name="live_pending_to_be_play">Загрузка…</string>
      <string name="live_tabs_all">Каналы</string>
      <string name="live_tabs_choice">Программы</string>
@@ -175,12 +175,12 @@
      <string name="load_failed_to_try">Ошибка загрузки</string>
      <string name="load_file_fail">Файл поврежден</string>
      <string name="load_offline_file_fail">Файл поврежден, повторите загрузку</string>
-     <string name="loading">Загрузка </string>
-     <string name="loading_review">Загрузка </string>
+     <string name="loading"><jsonstring>{"string":"Загрузка ","styles":[{"start":0,"name":"CDATA","end":8}]}</string>
+     <string name="loading_review"><jsonstring>{"string":"Загрузка ","styles":[{"start":0,"name":"CDATA","end":8}]}</string>
      <string name="loading_review_failed">Ошибка загрузки комментария</string>
-	 <string name="loading_text">Загрузка… </string>
-     <string name="loading_tv">Загрузка </string>
-     <string name="loading_video">Загрузка </string>
+	<string name="loading_text"><jsonstring>{"string":"Загрузка\u2026 ","styles":[{"start":0,"name":"CDATA","end":9}]}</string>
+     <string name="loading_tv"><jsonstring>{"string":"Загрузка ","styles":[{"start":0,"name":"CDATA","end":8}]}</string>
+     <string name="loading_video"><jsonstring>{"string":"Загрузка ","styles":[{"start":0,"name":"CDATA","end":8}]}</string>
      <string name="loading_video_netplay_label">Загрузка…</string>
      <string name="loading_video_netplay_label_v5">Загрузка…</string>
      <string name="local_count_ji">Сделано в Китае %d эп.</string>
@@ -300,7 +300,7 @@
      <string name="search">Поиск</string>
      <string name="search_result_recommend_hint">Видео по теме не найдено. Попробуйте другие ключевые слова.</string>
      <string name="search_result_recommend_title">Все смотрят</string>
-     <string name="searching"><CDATA>Поиск </CDATA></string>
+     <string name="searching"><jsonstring>{"string":"Поиск ","styles":[{"start":0,"name":"CDATA","end":5}]}</string>
      <string name="seconds"> сек.</string>
      <string name="select_all">Выбрать все</string>
      <string name="select_media_source">Выберите источник</string>

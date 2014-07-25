@@ -160,7 +160,7 @@
      <string name="dirty_mms_count">Сообщений: %d</string>
      <string name="dirty_note_count">Заметок: %d</string>
      <string name="disable_find_device_error">%1$s, ошибка отключения обнаружения устройства</string>
-     <string name="disable_micloud">Не включать MiCloud</string>
+     <string name="disable_micloud"><jsonstring>{"string":"Не включать MiCloud","styles":[{"start":0,"name":"u","end":18}]}</string>
      <string name="email_already_be_used">Этот адрес почты уже используется</string>
      <string name="enableAll">Включить все</string>
      <string name="enable_find_device_error">%1$s, ошибка включения поиска</string>
@@ -216,8 +216,8 @@
      <string name="find_device_notice_p4">При каждой смене SIM-карты, может быть отправлено сообщение для отслеживания устройства</string>
      <string name="find_device_success_title">Поиск устройства включен</string>
      <string name="find_password_on_web_msg">Пожалуйста, посетите account.xiaomi.com для получения пароля</string>
-     <string name="foreign_login">Страна</string>
-     <string name="forget_password">Забыли пароль?</string>
+     <string name="foreign_login"><jsonstring>{"string":"Страна","styles":[{"start":0,"name":"u","end":5}]}</string>
+     <string name="forget_password"><jsonstring>{"string":"Забыли пароль?","styles":[{"start":0,"name":"u","end":13}]}</string>
      <string name="frozen">(заморожен)</string>
      <string name="get_back_pwd">Получить пароль</string>
      <string name="header_data_and_synchronization">Данные и синхронизация</string>
@@ -298,7 +298,7 @@
 	 <string name="micloud_proceed">Продолжить</string>
      <string name="micloud_reg_new">Новый</string>
      <string name="micloud_resend_active_email">Повторно отправить письмо активации</string>
-     <string name="micloud_space_full_influence">Закончилось место в облаке?</string>
+     <string name="micloud_space_full_influence"><jsonstring>{"string":"Закончилось место в облаке?","styles":[{"start":0,"name":"u","end":26}]}</string>
      <string name="micloud_storage_space">Информация облака</string>
      <string name="micloud_summary">Войдите в аккаунт Xiaomi для синхронизации контактов, галереи и других функций</string>
      <string name="micloud_title_dspt" formatted="false">Всего: %s 
@@ -318,7 +318,7 @@
      <string name="micloud_warn_low_title">Мало свободного места…</string>
      <string name="micloud_web_discription_01">Зайдите на i.xiaomi.com</string>
      <string name="micloud_web_discription_02">для хранения и доступа к файлам из любого места</string>
-     <string name="micloud_welcome_skip_login">Пропустить этот шаг</string>
+     <string name="micloud_welcome_skip_login"><jsonstring>{"string":"Пропустить этот шаг","styles":[{"start":0,"name":"u","end":18}]}</string>
      <string name="mili_center">MiCredit</string>
      <string name="msg_denomination_type">MiCredit</string>
      <string name="msg_error">Ошибка пополнения через SMS</string>
@@ -431,7 +431,7 @@
      <string name="show_password">Показать</string>
      <string name="sim_unactivated_title">Ваша SIM-карта не активирована</string>
      <string name="skip_login">Пропустить</string>
-     <string name="skip_login_u"><u>Пропустить</u></string>
+     <string name="skip_login_u"><jsonstring>{"string":"Пропустить","styles":[{"start":0,"name":"u","end":9}]}</string>
      <string name="skip_setup_account_msg">С помощью аккаунта Xiaomi Вы сможете синхронизировать контакты, сообщения и другие личные данные</string>
      <string name="skip_setup_account_title">Настройка аккаунта</string>
      <string name="start_micloud">Начать</string>

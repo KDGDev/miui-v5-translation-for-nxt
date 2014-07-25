@@ -115,7 +115,7 @@
      <string name="error_user_id_mismatch_title">Ошибка аутентификации</string>
      <string name="error_verify_summary">Приложение не имеет разрешения на запрос этого сервиса</string>
      <string name="error_verify_title">Нет доступа</string>
-     <string name="forget_password"><u>Забыли пароль?</u></string>
+     <string name="forget_password"><jsonstring>{"string":"Забыли пароль?","styles":[{"start":0,"name":"u","end":13}]}</string>
      <string name="format_date">d MMMM yyyy</string>
      <string name="format_time">d MMMM yyyy hh:mmaa</string>
      <string name="frozen">(заморожен)</string>
@@ -152,13 +152,13 @@
      <string name="lockpattern_recording_incorrect_too_short">Соедините минимум %d точек. Попробуйте еще раз:</string>
      <string name="lockpattern_recording_inprogress">Отпустите палец, когда закончите</string>
      <string name="lockpattern_recording_intro_header">Нарисуйте ключ разблокировки:</string>
-     <string name="lockpattern_retry_text">Сбросить пароль</string>
+     <string name="lockpattern_retry_text"><jsonstring>{"string":"Сбросить пароль","styles":[{"start":0,"name":"u","end":14}]}</string>
      <string name="lockpattern_settings_help_how_to_record">Как нарисовать шаблон</string>
      <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Попробуйте еще раз через %d секнуд</string>
      <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Слишком много неудачных попыток!&lt;/font></string>
      <string name="lockpattern_tutorial_cancel_label">Отмена</string>
      <string name="lockpattern_tutorial_continue_label">Далее</string>
-     <string name="lockscreen_forgot_pattern_button_text">Забыли пароль?</string>
+     <string name="lockscreen_forgot_pattern_button_text"><jsonstring>{"string":"Забыли пароль?","styles":[{"start":0,"name":"u","end":13}]}</string>
      <string name="login">Войти</string>
      <string name="memu_refresh">Обновить</string>
 	 <string name="mibi_license_checkbox_prompt">Больше не напоминать</string>
