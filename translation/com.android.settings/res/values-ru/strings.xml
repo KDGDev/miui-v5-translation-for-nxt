@@ -3782,11 +3782,11 @@
      <string name="voice_ui_setting_category">Настройки</string>
      <string name="voice_ui_title">Управление голосом</string>
      <string name="voice_unlock_backup_info_summary">Когда голосовая разблокировка не распознает вас, как вы будете разблокировать телефон?</string>
-     <string name="volume_alarm_description">Будильник</string>
+     <string name="volume_alarm_description">Громкость будильника</string>
      <string name="volume_alarm_mute">Выключить будильники</string>
      <string name="volume_bluetooth_description">Громкость Bluetooth</string>
      <string name="volume_category_title">Громкость</string>
-     <string name="volume_media_description">Музыка, видео, игры и другие медиафайлы</string>
+     <string name="volume_media_description">Громкость мультимедиа</string>
      <string name="volume_media_mute">Выключить музыку и прочее медиа</string>
      <string name="volume_notification_description">Оповещения</string>
      <string name="volume_notification_mute">Выключить оповещения</string>
