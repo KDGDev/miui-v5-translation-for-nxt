@@ -125,7 +125,10 @@
      <string name="accessibility_toggle_script_injection_preference_title">Специальные веб-скрипты</string>
      <string name="accessibility_toggle_speak_password_preference_title">Озвучивать пароли</string>
      <string name="account_settings">Аккаунты</string>
+     <string name="account_list">Все</string>
+     <string name="account_add">Добавить</string>
      <string name="account_sync_settings_title">Синхронизация</string>
+     <string name="account_autostar_label">Автозапуск</string>
      <string name="act_action_accept_accept">Применить</string>
      <string name="act_action_accept_mute">Тихие сообщения</string>
      <string name="act_action_accept_reject">Переадресация сообщений</string>
@@ -3312,6 +3315,7 @@
      <string name="sync_wifi_label">Настройки Wi-Fi</string>
      <string name="sync_wifi_only">Только Wi-Fi</string>
      <string name="system">Настройки системы</string>
+     <string name="system_app_settings">Сист. приложения</string>
      <string name="system_backup_section_title">Резервное копирование</string>
      <string name="system_cache_title">Системный кэш</string>
      <string name="system_package">Системные обновления нельзя установить на внешний носитель.</string>
@@ -4244,4 +4248,19 @@
      <string name="zone_auto_summaryOn">Использовать часовой пояс сети</string>
      <string name="zone_list_menu_sort_alphabetically">Упорядочить по алфавиту</string>
      <string name="zone_list_menu_sort_by_timezone">Упорядочить по часовому поясу</string>
+     <string name="found_new_version">Поиск новой версии</string>
+     <string name="no_update_found">Установлена последняя версия</string>
+     <string name="no_updates_found">"У вас уже установлена последняя версия MIUI."</string>
+     <string name="no_updates_warning">Обновлений не найдено.</string>
+     <string name="no_updates_warning2">"Расслабьтесь, мы сообщим вам, если есть обновление."</string>
+     <string name="network_error">Ошибка сети.</string>
+     <string name="checking_for_updates">Проверка обновлений…</string>
+     <string name="rebootiing_for_updates">Перезагрузка...</string>
+     <string name="check_update">Проверить обновления</string>
+     <string name="dialog_no">Нет</string>
+     <string name="dialog_yes">Да</string>
+     <string name="downloading_description">Скачивание…</string>
+     <string name="cancel_download_buton_text">Отмена</string>
+     <string name="apply_now_button_text">Обновить</string>
+     <string name="update_progress_for_updates">Обновление（%s）</string>
 </resources>
