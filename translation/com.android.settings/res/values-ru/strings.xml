@@ -4263,7 +4263,4 @@
      <string name="cancel_download_buton_text">Отмена</string>
      <string name="apply_now_button_text">Обновить</string>
      <string name="update_progress_for_updates">Обновление（%s）</string>
-	 <string name="launching_pho">Запуск информации об устройсте, подождите.</string>
-     <string name="launching_cit">Запуск тестирования, подождите.</string>
-     <string name="launching_rep">Отправка отчета об ошибке, подождите.</string>
 </resources>
